@@ -1,0 +1,3000 @@
+visit_date,ssn,hosp_name
+2020/6/15,100000092,Al-Hilal Hospital
+2019/5/27,100000252,King Hamad University Hospital
+2019/4/15,100000130,Al-Hilal Hospital
+2021/6/11,100000083,Emirates Hospital
+2021/8/16,100000051,King Faisal Specialist Hospital & Research Centre
+2019/4/2,100000221,American Mission Hospital
+2021/5/10,100000142,Mayo Clinic
+2019/2/14,100000197,St Thomas Hospital London
+2019/11/18,100000129,King Hamad University Hospital
+2020/10/20,100000292,King Hamad University Hospital
+2019/4/6,100000298,King Hamad University Hospital
+2020/5/7,100000289,Dar Al Shifa Hospital
+2021/5/12,100000140,King Faisal Specialist Hospital & Research Centre
+2021/3/12,100000254,Salamaniya Hospital
+2019/2/20,100000095,Bahrain Defence Force Hospital
+2021/5/11,100000045,St Thomas Hospital London
+2019/4/22,100000297,Al-Hilal Hospital
+2019/2/6,100000127,King Hamad University Hospital
+2021/4/18,100000197,Al-Hilal Hospital
+2021/3/2,100000178,Dar Al Shifa Hospital
+2021/4/25,100000185,St Thomas Hospital London
+2020/8/12,100000193,Bahrain Defence Force Hospital
+2019/2/2,100000103,Dar Al Shifa Hospital
+2020/9/12,100000197,St Thomas Hospital London
+2020/8/6,100000147,King Faisal Specialist Hospital & Research Centre
+2020/5/4,100000048,Salamaniya Hospital
+2021/3/25,100000267,King Hamad University Hospital
+2021/10/6,100000220,Al-Hilal Hospital
+2019/8/9,100000014,King Hamad University Hospital
+2020/7/8,100000286,Al-Hilal Hospital
+2020/3/12,100000140,Al-Hilal Hospital
+2020/1/15,100000210,Salamaniya Hospital
+2019/10/14,100000034,Emirates Hospital
+2020/2/26,100000048,Mayo Clinic
+2019/9/11,100000248,Dar Al Shifa Hospital
+2021/1/6,100000241,King Faisal Specialist Hospital & Research Centre
+2020/6/17,100000055,Salamaniya Hospital
+2019/9/18,100000222,St Thomas Hospital London
+2019/11/4,100000259,Salamaniya Hospital
+2021/10/26,100000201,Mayo Clinic
+2020/6/19,100000243,King Faisal Specialist Hospital & Research Centre
+2020/1/23,100000096,King Faisal Specialist Hospital & Research Centre
+2019/3/15,100000135,Mayo Clinic
+2021/8/1,100000276,Emirates Hospital
+2019/5/15,100000232,Dar Al Shifa Hospital
+2021/1/1,100000108,American Mission Hospital
+2021/3/10,100000181,King Faisal Specialist Hospital & Research Centre
+2020/6/26,100000216,King Faisal Specialist Hospital & Research Centre
+2021/5/11,100000024,Mayo Clinic
+2019/10/5,100000198,Al-Hilal Hospital
+2020/11/22,100000189,Mayo Clinic
+2021/7/2,100000035,American Mission Hospital
+2019/1/1,100000113,Emirates Hospital
+2020/8/12,100000092,American Mission Hospital
+2021/5/21,100000174,Salamaniya Hospital
+2021/10/7,100000085,American Mission Hospital
+2020/2/10,100000241,King Hamad University Hospital
+2019/7/7,100000288,Salamaniya Hospital
+2021/1/4,100000147,St Thomas Hospital London
+2020/1/6,100000208,Mayo Clinic
+2021/8/26,100000247,St Thomas Hospital London
+2020/11/26,100000191,St Thomas Hospital London
+2021/6/10,100000201,Emirates Hospital
+2019/4/27,100000007,Dar Al Shifa Hospital
+2019/1/10,100000153,Dar Al Shifa Hospital
+2021/3/19,100000052,American Mission Hospital
+2021/10/24,100000037,Salamaniya Hospital
+2019/7/5,100000119,Emirates Hospital
+2020/7/2,100000085,Salamaniya Hospital
+2021/3/2,100000127,Mayo Clinic
+2021/7/26,100000265,Mayo Clinic
+2020/5/23,100000012,Mayo Clinic
+2019/5/1,100000184,American Mission Hospital
+2019/8/11,100000297,Bahrain Defence Force Hospital
+2019/10/4,100000243,Bahrain Defence Force Hospital
+2021/1/5,100000249,St Thomas Hospital London
+2021/10/22,100000240,Mayo Clinic
+2020/7/14,100000055,King Hamad University Hospital
+2020/3/24,100000127,St Thomas Hospital London
+2021/7/26,100000103,Salamaniya Hospital
+2020/11/2,100000166,Al-Hilal Hospital
+2021/6/3,100000286,Dar Al Shifa Hospital
+2020/6/18,100000256,Emirates Hospital
+2020/10/5,100000003,King Hamad University Hospital
+2021/8/5,100000178,Mayo Clinic
+2021/9/14,100000213,Dar Al Shifa Hospital
+2020/3/15,100000137,Salamaniya Hospital
+2019/4/16,100000249,King Hamad University Hospital
+2020/7/7,100000010,Al-Hilal Hospital
+2021/3/26,100000274,King Faisal Specialist Hospital & Research Centre
+2020/4/22,100000156,Bahrain Defence Force Hospital
+2020/5/18,100000061,Bahrain Defence Force Hospital
+2019/11/16,100000175,King Hamad University Hospital
+2021/10/10,100000287,Mayo Clinic
+2019/6/7,100000292,Al-Hilal Hospital
+2021/9/23,100000177,American Mission Hospital
+2020/3/11,100000216,Salamaniya Hospital
+2019/1/9,100000275,Mayo Clinic
+2019/1/14,100000262,American Mission Hospital
+2021/9/2,100000016,King Hamad University Hospital
+2020/7/12,100000006,Dar Al Shifa Hospital
+2020/10/19,100000246,Bahrain Defence Force Hospital
+2021/6/25,100000138,Dar Al Shifa Hospital
+2021/5/9,100000091,Emirates Hospital
+2020/5/24,100000183,Emirates Hospital
+2019/7/10,100000147,St Thomas Hospital London
+2019/3/8,100000140,Emirates Hospital
+2021/5/12,100000217,King Hamad University Hospital
+2020/11/27,100000094,Bahrain Defence Force Hospital
+2020/11/16,100000086,St Thomas Hospital London
+2019/10/23,100000057,Al-Hilal Hospital
+2021/6/23,100000225,Bahrain Defence Force Hospital
+2019/11/26,100000290,King Hamad University Hospital
+2020/11/15,100000224,St Thomas Hospital London
+2021/5/15,100000234,Dar Al Shifa Hospital
+2019/3/8,100000107,Al-Hilal Hospital
+2021/6/1,100000287,Salamaniya Hospital
+2021/2/10,100000291,Al-Hilal Hospital
+2019/9/13,100000249,King Hamad University Hospital
+2021/11/3,100000224,Mayo Clinic
+2021/11/15,100000272,Bahrain Defence Force Hospital
+2020/11/6,100000062,King Faisal Specialist Hospital & Research Centre
+2021/11/3,100000094,King Hamad University Hospital
+2020/5/24,100000051,Mayo Clinic
+2019/9/19,100000243,American Mission Hospital
+2019/10/13,100000286,Salamaniya Hospital
+2020/4/25,100000137,Salamaniya Hospital
+2020/8/14,100000224,Emirates Hospital
+2020/4/16,100000268,King Hamad University Hospital
+2020/4/17,100000281,St Thomas Hospital London
+2019/11/11,100000080,Emirates Hospital
+2021/8/18,100000067,Salamaniya Hospital
+2020/3/15,100000034,King Hamad University Hospital
+2020/6/12,100000022,Bahrain Defence Force Hospital
+2019/10/13,100000282,Mayo Clinic
+2020/1/9,100000263,Bahrain Defence Force Hospital
+2020/4/19,100000089,St Thomas Hospital London
+2021/4/18,100000081,Emirates Hospital
+2019/5/12,100000237,Dar Al Shifa Hospital
+2019/4/25,100000068,Bahrain Defence Force Hospital
+2019/5/2,100000095,Emirates Hospital
+2019/10/18,100000264,King Faisal Specialist Hospital & Research Centre
+2020/7/4,100000028,St Thomas Hospital London
+2021/5/11,100000060,Al-Hilal Hospital
+2020/8/24,100000162,King Hamad University Hospital
+2019/3/22,100000065,Salamaniya Hospital
+2021/3/19,100000234,St Thomas Hospital London
+2019/5/12,100000297,Emirates Hospital
+2020/11/13,100000044,Mayo Clinic
+2020/6/10,100000182,Salamaniya Hospital
+2020/11/13,100000041,Al-Hilal Hospital
+2021/2/3,100000254,American Mission Hospital
+2020/3/19,100000194,Emirates Hospital
+2020/8/2,100000069,American Mission Hospital
+2020/8/2,100000108,Mayo Clinic
+2020/3/12,100000007,Bahrain Defence Force Hospital
+2021/4/17,100000252,Emirates Hospital
+2019/6/9,100000268,Al-Hilal Hospital
+2020/2/14,100000231,St Thomas Hospital London
+2021/5/18,100000064,Mayo Clinic
+2021/2/22,100000025,Salamaniya Hospital
+2020/11/11,100000247,St Thomas Hospital London
+2020/11/26,100000046,King Hamad University Hospital
+2020/7/1,100000159,Salamaniya Hospital
+2020/7/17,100000292,St Thomas Hospital London
+2020/5/14,100000235,Salamaniya Hospital
+2021/5/15,100000036,St Thomas Hospital London
+2021/11/11,100000080,Emirates Hospital
+2019/9/21,100000287,St Thomas Hospital London
+2021/3/5,100000190,St Thomas Hospital London
+2021/3/18,100000055,King Faisal Specialist Hospital & Research Centre
+2020/4/6,100000075,American Mission Hospital
+2020/5/9,100000208,American Mission Hospital
+2021/1/4,100000116,Salamaniya Hospital
+2020/11/22,100000003,Al-Hilal Hospital
+2019/4/10,100000015,King Faisal Specialist Hospital & Research Centre
+2019/8/18,100000056,King Hamad University Hospital
+2020/8/13,100000188,Salamaniya Hospital
+2019/3/11,100000249,Salamaniya Hospital
+2019/10/4,100000275,King Hamad University Hospital
+2020/1/2,100000160,St Thomas Hospital London
+2020/6/7,100000056,King Faisal Specialist Hospital & Research Centre
+2019/5/6,100000284,Dar Al Shifa Hospital
+2021/9/23,100000152,King Faisal Specialist Hospital & Research Centre
+2019/5/9,100000156,King Hamad University Hospital
+2020/8/7,100000171,Emirates Hospital
+2021/9/22,100000175,Emirates Hospital
+2020/5/18,100000070,King Faisal Specialist Hospital & Research Centre
+2019/2/4,100000264,King Hamad University Hospital
+2021/5/14,100000123,St Thomas Hospital London
+2021/8/1,100000035,King Hamad University Hospital
+2021/5/8,100000271,Emirates Hospital
+2019/3/20,100000017,King Hamad University Hospital
+2019/1/6,100000021,Dar Al Shifa Hospital
+2021/4/13,100000197,Dar Al Shifa Hospital
+2019/2/13,100000108,Salamaniya Hospital
+2021/1/12,100000012,Dar Al Shifa Hospital
+2020/8/15,100000076,Bahrain Defence Force Hospital
+2021/3/22,100000238,Mayo Clinic
+2020/2/9,100000251,Dar Al Shifa Hospital
+2021/2/4,100000077,King Faisal Specialist Hospital & Research Centre
+2019/5/16,100000241,Al-Hilal Hospital
+2019/7/14,100000062,Salamaniya Hospital
+2021/2/16,100000187,Salamaniya Hospital
+2019/9/27,100000246,American Mission Hospital
+2021/6/8,100000075,American Mission Hospital
+2020/9/10,100000217,Salamaniya Hospital
+2020/5/14,100000113,American Mission Hospital
+2021/11/15,100000004,Emirates Hospital
+2020/5/5,100000222,Bahrain Defence Force Hospital
+2021/1/3,100000226,Mayo Clinic
+2020/7/4,100000067,Al-Hilal Hospital
+2021/9/13,100000015,Al-Hilal Hospital
+2021/1/1,100000128,Emirates Hospital
+2020/10/4,100000185,Dar Al Shifa Hospital
+2019/6/27,100000112,King Faisal Specialist Hospital & Research Centre
+2019/8/12,100000188,Emirates Hospital
+2019/6/25,100000056,King Faisal Specialist Hospital & Research Centre
+2021/1/8,100000148,Bahrain Defence Force Hospital
+2020/10/27,100000172,Bahrain Defence Force Hospital
+2021/10/4,100000042,Salamaniya Hospital
+2021/5/25,100000195,King Hamad University Hospital
+2020/3/7,100000200,American Mission Hospital
+2021/3/20,100000006,Dar Al Shifa Hospital
+2019/3/21,100000147,Dar Al Shifa Hospital
+2019/7/19,100000219,Salamaniya Hospital
+2019/8/23,100000111,Mayo Clinic
+2020/3/22,100000143,St Thomas Hospital London
+2021/3/13,100000015,Dar Al Shifa Hospital
+2020/9/1,100000082,Emirates Hospital
+2019/10/20,100000257,King Faisal Specialist Hospital & Research Centre
+2019/7/19,100000178,Al-Hilal Hospital
+2020/1/7,100000094,King Faisal Specialist Hospital & Research Centre
+2019/2/15,100000156,American Mission Hospital
+2020/4/11,100000032,Al-Hilal Hospital
+2020/11/18,100000076,St Thomas Hospital London
+2020/7/3,100000194,St Thomas Hospital London
+2021/4/23,100000132,King Faisal Specialist Hospital & Research Centre
+2021/7/11,100000081,Mayo Clinic
+2020/11/19,100000035,Bahrain Defence Force Hospital
+2020/3/12,100000279,Mayo Clinic
+2021/3/24,100000261,King Hamad University Hospital
+2020/6/12,100000246,St Thomas Hospital London
+2020/11/15,100000259,Mayo Clinic
+2020/4/4,100000292,American Mission Hospital
+2019/9/4,100000199,Emirates Hospital
+2021/11/6,100000135,Mayo Clinic
+2021/9/16,100000276,Dar Al Shifa Hospital
+2020/11/9,100000043,King Faisal Specialist Hospital & Research Centre
+2021/5/24,100000172,Dar Al Shifa Hospital
+2019/5/3,100000275,King Faisal Specialist Hospital & Research Centre
+2019/4/21,100000001,Emirates Hospital
+2021/1/26,100000299,Dar Al Shifa Hospital
+2020/2/18,100000024,Salamaniya Hospital
+2019/9/24,100000039,St Thomas Hospital London
+2019/6/17,100000099,Salamaniya Hospital
+2019/1/19,100000006,Mayo Clinic
+2020/7/3,100000248,Dar Al Shifa Hospital
+2020/11/10,100000087,St Thomas Hospital London
+2021/1/23,100000144,Mayo Clinic
+2021/5/15,100000002,Salamaniya Hospital
+2021/9/5,100000113,Emirates Hospital
+2019/10/18,100000029,Salamaniya Hospital
+2020/2/23,100000087,Emirates Hospital
+2019/4/19,100000269,Salamaniya Hospital
+2020/2/1,100000033,St Thomas Hospital London
+2021/3/13,100000036,Emirates Hospital
+2019/10/4,100000218,American Mission Hospital
+2019/11/21,100000152,King Faisal Specialist Hospital & Research Centre
+2021/5/12,100000161,Bahrain Defence Force Hospital
+2020/10/15,100000040,American Mission Hospital
+2019/6/5,100000252,Al-Hilal Hospital
+2020/11/21,100000198,Emirates Hospital
+2020/10/1,100000077,American Mission Hospital
+2019/9/25,100000241,Bahrain Defence Force Hospital
+2020/11/18,100000232,American Mission Hospital
+2020/5/7,100000179,American Mission Hospital
+2019/2/16,100000066,Mayo Clinic
+2020/11/4,100000180,St Thomas Hospital London
+2021/9/20,100000014,Dar Al Shifa Hospital
+2020/11/9,100000088,Mayo Clinic
+2019/4/8,100000145,Al-Hilal Hospital
+2020/9/17,100000173,King Hamad University Hospital
+2020/3/26,100000077,American Mission Hospital
+2021/9/13,100000268,Dar Al Shifa Hospital
+2021/1/2,100000255,Dar Al Shifa Hospital
+2021/4/3,100000252,Dar Al Shifa Hospital
+2021/1/1,100000200,Mayo Clinic
+2019/3/21,100000132,Dar Al Shifa Hospital
+2021/8/9,100000186,Bahrain Defence Force Hospital
+2019/10/2,100000273,Salamaniya Hospital
+2021/3/26,100000275,King Faisal Specialist Hospital & Research Centre
+2020/10/2,100000230,Emirates Hospital
+2019/8/8,100000285,King Hamad University Hospital
+2021/10/19,100000246,Mayo Clinic
+2021/5/24,100000018,Bahrain Defence Force Hospital
+2020/5/14,100000073,King Hamad University Hospital
+2020/6/18,100000014,Emirates Hospital
+2020/7/20,100000090,Emirates Hospital
+2020/11/2,100000197,King Faisal Specialist Hospital & Research Centre
+2019/2/4,100000283,Salamaniya Hospital
+2021/4/20,100000280,Emirates Hospital
+2021/11/6,100000001,Emirates Hospital
+2021/11/23,100000297,King Hamad University Hospital
+2019/8/26,100000025,Salamaniya Hospital
+2021/11/8,100000196,Al-Hilal Hospital
+2021/7/16,100000159,American Mission Hospital
+2021/7/6,100000176,St Thomas Hospital London
+2020/1/16,100000283,American Mission Hospital
+2020/7/24,100000023,St Thomas Hospital London
+2019/11/26,100000157,Dar Al Shifa Hospital
+2020/6/7,100000282,American Mission Hospital
+2020/11/6,100000117,American Mission Hospital
+2019/11/25,100000177,St Thomas Hospital London
+2019/8/27,100000182,Bahrain Defence Force Hospital
+2021/7/10,100000183,Dar Al Shifa Hospital
+2019/7/8,100000291,Mayo Clinic
+2020/8/2,100000161,St Thomas Hospital London
+2021/9/25,100000124,Bahrain Defence Force Hospital
+2020/9/21,100000161,Emirates Hospital
+2021/5/11,100000108,King Hamad University Hospital
+2019/10/20,100000014,King Hamad University Hospital
+2021/1/24,100000120,Dar Al Shifa Hospital
+2020/8/4,100000256,Salamaniya Hospital
+2021/6/14,100000206,King Faisal Specialist Hospital & Research Centre
+2019/8/3,100000086,Salamaniya Hospital
+2021/11/7,100000117,St Thomas Hospital London
+2019/2/4,100000091,King Faisal Specialist Hospital & Research Centre
+2019/6/18,100000099,King Faisal Specialist Hospital & Research Centre
+2020/5/25,100000116,Mayo Clinic
+2019/1/19,100000066,Mayo Clinic
+2019/11/18,100000214,King Hamad University Hospital
+2020/11/17,100000268,St Thomas Hospital London
+2019/10/4,100000213,Salamaniya Hospital
+2019/9/10,100000054,King Hamad University Hospital
+2019/2/14,100000131,Salamaniya Hospital
+2019/9/2,100000096,King Faisal Specialist Hospital & Research Centre
+2020/11/5,100000091,Salamaniya Hospital
+2020/4/1,100000097,Mayo Clinic
+2021/1/6,100000203,St Thomas Hospital London
+2020/10/5,100000129,American Mission Hospital
+2020/9/10,100000152,St Thomas Hospital London
+2019/9/6,100000133,American Mission Hospital
+2021/4/8,100000247,King Hamad University Hospital
+2020/8/21,100000120,St Thomas Hospital London
+2021/6/3,100000088,St Thomas Hospital London
+2021/9/25,100000191,Dar Al Shifa Hospital
+2020/1/4,100000031,King Hamad University Hospital
+2019/11/14,100000181,Emirates Hospital
+2021/11/23,100000204,Dar Al Shifa Hospital
+2021/4/13,100000280,King Hamad University Hospital
+2021/8/15,100000057,Mayo Clinic
+2019/6/2,100000203,King Hamad University Hospital
+2019/5/17,100000246,American Mission Hospital
+2021/3/12,100000166,King Faisal Specialist Hospital & Research Centre
+2021/1/6,100000177,Emirates Hospital
+2021/7/22,100000272,Dar Al Shifa Hospital
+2020/8/12,100000010,Mayo Clinic
+2021/10/12,100000036,Salamaniya Hospital
+2021/3/18,100000073,Bahrain Defence Force Hospital
+2021/7/14,100000197,King Hamad University Hospital
+2019/7/7,100000056,Emirates Hospital
+2019/3/19,100000203,American Mission Hospital
+2020/5/5,100000096,Mayo Clinic
+2019/3/25,100000261,Al-Hilal Hospital
+2020/8/24,100000076,King Faisal Specialist Hospital & Research Centre
+2021/5/3,100000162,American Mission Hospital
+2019/6/20,100000243,King Hamad University Hospital
+2021/10/11,100000144,King Hamad University Hospital
+2019/6/15,100000266,Bahrain Defence Force Hospital
+2021/11/19,100000052,Mayo Clinic
+2021/10/25,100000250,Dar Al Shifa Hospital
+2021/4/25,100000109,St Thomas Hospital London
+2019/10/25,100000004,Al-Hilal Hospital
+2020/7/19,100000277,Bahrain Defence Force Hospital
+2020/3/1,100000117,Bahrain Defence Force Hospital
+2020/7/24,100000078,King Hamad University Hospital
+2019/11/1,100000015,Al-Hilal Hospital
+2020/6/12,100000012,King Faisal Specialist Hospital & Research Centre
+2020/3/6,100000143,St Thomas Hospital London
+2021/1/26,100000086,Bahrain Defence Force Hospital
+2020/1/19,100000243,King Hamad University Hospital
+2021/1/9,100000082,Dar Al Shifa Hospital
+2021/9/11,100000046,Salamaniya Hospital
+2019/2/17,100000004,King Faisal Specialist Hospital & Research Centre
+2021/2/8,100000174,Dar Al Shifa Hospital
+2021/2/15,100000279,Mayo Clinic
+2019/3/24,100000081,Mayo Clinic
+2020/7/8,100000189,King Hamad University Hospital
+2019/1/15,100000083,Mayo Clinic
+2021/2/7,100000207,Bahrain Defence Force Hospital
+2019/7/3,100000070,Al-Hilal Hospital
+2020/3/13,100000089,Emirates Hospital
+2021/9/21,100000050,King Hamad University Hospital
+2021/11/17,100000108,Al-Hilal Hospital
+2020/11/14,100000172,Mayo Clinic
+2021/8/20,100000020,Emirates Hospital
+2019/6/27,100000235,Al-Hilal Hospital
+2019/3/19,100000193,Mayo Clinic
+2020/9/21,100000077,Bahrain Defence Force Hospital
+2019/5/12,100000150,Bahrain Defence Force Hospital
+2019/1/13,100000110,St Thomas Hospital London
+2020/11/10,100000283,American Mission Hospital
+2020/9/2,100000255,St Thomas Hospital London
+2020/6/6,100000032,Mayo Clinic
+2020/1/6,100000057,King Faisal Specialist Hospital & Research Centre
+2021/4/11,100000192,Bahrain Defence Force Hospital
+2021/7/8,100000136,King Hamad University Hospital
+2021/8/25,100000283,Al-Hilal Hospital
+2020/1/26,100000195,King Hamad University Hospital
+2020/8/24,100000104,King Faisal Specialist Hospital & Research Centre
+2021/11/23,100000021,Bahrain Defence Force Hospital
+2019/10/5,100000073,King Faisal Specialist Hospital & Research Centre
+2020/9/5,100000058,Bahrain Defence Force Hospital
+2019/8/22,100000138,Dar Al Shifa Hospital
+2021/8/23,100000149,King Faisal Specialist Hospital & Research Centre
+2021/9/9,100000072,King Hamad University Hospital
+2019/5/13,100000108,King Hamad University Hospital
+2019/6/19,100000261,Dar Al Shifa Hospital
+2021/1/18,100000233,King Faisal Specialist Hospital & Research Centre
+2020/4/5,100000187,Bahrain Defence Force Hospital
+2021/2/6,100000210,Mayo Clinic
+2021/10/9,100000046,Al-Hilal Hospital
+2020/4/23,100000123,St Thomas Hospital London
+2019/3/6,100000241,Bahrain Defence Force Hospital
+2019/8/6,100000054,Mayo Clinic
+2020/11/2,100000102,King Faisal Specialist Hospital & Research Centre
+2021/11/19,100000196,King Faisal Specialist Hospital & Research Centre
+2019/4/27,100000063,St Thomas Hospital London
+2020/5/14,100000268,St Thomas Hospital London
+2020/7/7,100000250,Emirates Hospital
+2021/6/5,100000076,American Mission Hospital
+2021/1/10,100000217,King Faisal Specialist Hospital & Research Centre
+2021/7/26,100000167,American Mission Hospital
+2019/4/13,100000136,St Thomas Hospital London
+2020/10/9,100000038,King Hamad University Hospital
+2019/5/24,100000244,King Faisal Specialist Hospital & Research Centre
+2020/3/16,100000261,King Faisal Specialist Hospital & Research Centre
+2021/4/22,100000009,King Hamad University Hospital
+2021/7/24,100000233,Al-Hilal Hospital
+2021/11/12,100000162,Al-Hilal Hospital
+2021/1/17,100000256,King Hamad University Hospital
+2020/8/23,100000260,American Mission Hospital
+2019/4/11,100000123,King Faisal Specialist Hospital & Research Centre
+2021/5/8,100000100,Salamaniya Hospital
+2019/3/26,100000187,Emirates Hospital
+2021/1/27,100000037,King Faisal Specialist Hospital & Research Centre
+2019/7/24,100000008,King Hamad University Hospital
+2020/3/4,100000041,Bahrain Defence Force Hospital
+2021/9/24,100000282,King Hamad University Hospital
+2020/9/24,100000289,Salamaniya Hospital
+2021/5/4,100000029,Dar Al Shifa Hospital
+2019/7/21,100000299,King Hamad University Hospital
+2020/3/15,100000029,King Hamad University Hospital
+2021/4/16,100000297,Emirates Hospital
+2021/10/17,100000091,King Hamad University Hospital
+2019/9/26,100000074,Emirates Hospital
+2021/3/11,100000157,Bahrain Defence Force Hospital
+2020/6/5,100000215,Mayo Clinic
+2020/4/26,100000230,St Thomas Hospital London
+2021/4/3,100000096,Bahrain Defence Force Hospital
+2020/7/24,100000231,Al-Hilal Hospital
+2019/8/26,100000220,King Hamad University Hospital
+2021/11/5,100000161,Mayo Clinic
+2019/4/10,100000216,American Mission Hospital
+2020/1/10,100000167,Emirates Hospital
+2020/9/1,100000177,American Mission Hospital
+2020/1/23,100000169,St Thomas Hospital London
+2020/4/25,100000258,King Hamad University Hospital
+2021/1/7,100000244,Mayo Clinic
+2019/7/7,100000240,Bahrain Defence Force Hospital
+2020/10/14,100000063,Mayo Clinic
+2020/5/19,100000073,St Thomas Hospital London
+2019/3/21,100000002,Dar Al Shifa Hospital
+2019/10/26,100000098,Bahrain Defence Force Hospital
+2019/11/12,100000219,Dar Al Shifa Hospital
+2020/5/5,100000270,American Mission Hospital
+2019/8/2,100000114,Dar Al Shifa Hospital
+2021/4/7,100000203,King Hamad University Hospital
+2019/3/4,100000051,King Hamad University Hospital
+2019/1/17,100000261,St Thomas Hospital London
+2019/2/21,100000032,Salamaniya Hospital
+2021/8/25,100000081,Mayo Clinic
+2021/2/26,100000275,King Faisal Specialist Hospital & Research Centre
+2019/1/27,100000186,Dar Al Shifa Hospital
+2019/8/12,100000005,Mayo Clinic
+2021/1/6,100000172,St Thomas Hospital London
+2021/6/20,100000188,King Hamad University Hospital
+2019/5/11,100000136,Mayo Clinic
+2021/11/18,100000011,Mayo Clinic
+2020/4/15,100000195,Salamaniya Hospital
+2019/8/16,100000174,St Thomas Hospital London
+2021/4/22,100000183,American Mission Hospital
+2020/10/20,100000118,Emirates Hospital
+2020/1/8,100000028,Dar Al Shifa Hospital
+2021/8/1,100000171,Salamaniya Hospital
+2021/1/8,100000138,King Faisal Specialist Hospital & Research Centre
+2019/3/27,100000065,American Mission Hospital
+2021/10/17,100000082,American Mission Hospital
+2019/11/24,100000201,King Faisal Specialist Hospital & Research Centre
+2020/6/5,100000017,Al-Hilal Hospital
+2021/5/2,100000167,Emirates Hospital
+2019/1/20,100000122,Al-Hilal Hospital
+2020/5/7,100000207,King Hamad University Hospital
+2021/8/20,100000201,Dar Al Shifa Hospital
+2021/5/21,100000195,King Hamad University Hospital
+2019/5/3,100000216,American Mission Hospital
+2020/5/18,100000279,King Hamad University Hospital
+2021/8/5,100000057,Dar Al Shifa Hospital
+2020/5/11,100000074,King Faisal Specialist Hospital & Research Centre
+2019/2/11,100000128,King Hamad University Hospital
+2020/5/26,100000179,Mayo Clinic
+2019/1/14,100000283,St Thomas Hospital London
+2020/10/16,100000223,Bahrain Defence Force Hospital
+2021/5/15,100000220,Salamaniya Hospital
+2021/3/12,100000142,King Hamad University Hospital
+2021/7/20,100000121,Mayo Clinic
+2021/4/12,100000226,Bahrain Defence Force Hospital
+2020/1/3,100000150,King Faisal Specialist Hospital & Research Centre
+2021/10/11,100000268,Mayo Clinic
+2021/7/2,100000154,American Mission Hospital
+2020/5/2,100000198,Salamaniya Hospital
+2019/5/24,100000202,King Faisal Specialist Hospital & Research Centre
+2021/11/15,100000240,Salamaniya Hospital
+2020/11/2,100000049,Mayo Clinic
+2021/3/17,100000057,Salamaniya Hospital
+2021/10/3,100000259,Emirates Hospital
+2020/11/27,100000194,Emirates Hospital
+2021/8/15,100000204,Mayo Clinic
+2021/9/12,100000060,Emirates Hospital
+2021/4/9,100000164,St Thomas Hospital London
+2020/9/24,100000154,American Mission Hospital
+2019/11/17,100000053,Al-Hilal Hospital
+2020/7/6,100000086,King Hamad University Hospital
+2019/6/5,100000214,Al-Hilal Hospital
+2019/1/13,100000199,Salamaniya Hospital
+2019/8/27,100000167,American Mission Hospital
+2020/10/14,100000127,Emirates Hospital
+2019/3/9,100000053,Mayo Clinic
+2020/10/19,100000209,King Hamad University Hospital
+2019/3/9,100000233,Al-Hilal Hospital
+2021/9/16,100000097,Emirates Hospital
+2019/2/23,100000052,Dar Al Shifa Hospital
+2020/6/4,100000172,American Mission Hospital
+2019/1/15,100000130,St Thomas Hospital London
+2019/11/4,100000109,Emirates Hospital
+2021/11/15,100000108,King Hamad University Hospital
+2021/2/24,100000231,Mayo Clinic
+2021/4/2,100000116,King Hamad University Hospital
+2020/7/21,100000266,Salamaniya Hospital
+2020/6/4,100000095,Salamaniya Hospital
+2019/5/19,100000197,Emirates Hospital
+2021/11/17,100000101,Mayo Clinic
+2021/4/27,100000088,American Mission Hospital
+2019/1/6,100000061,King Faisal Specialist Hospital & Research Centre
+2019/9/24,100000286,King Faisal Specialist Hospital & Research Centre
+2019/9/16,100000245,King Hamad University Hospital
+2021/8/7,100000125,American Mission Hospital
+2021/2/15,100000193,King Faisal Specialist Hospital & Research Centre
+2020/10/18,100000023,King Faisal Specialist Hospital & Research Centre
+2021/2/17,100000004,Al-Hilal Hospital
+2019/8/24,100000227,Emirates Hospital
+2021/6/8,100000192,King Faisal Specialist Hospital & Research Centre
+2019/3/3,100000139,King Faisal Specialist Hospital & Research Centre
+2019/4/6,100000006,Al-Hilal Hospital
+2020/1/5,100000183,King Hamad University Hospital
+2021/1/25,100000009,Bahrain Defence Force Hospital
+2021/1/17,100000009,Bahrain Defence Force Hospital
+2020/4/20,100000026,St Thomas Hospital London
+2021/1/8,100000077,Mayo Clinic
+2019/5/14,100000172,King Hamad University Hospital
+2021/1/21,100000050,American Mission Hospital
+2020/6/11,100000213,Salamaniya Hospital
+2019/1/5,100000036,King Faisal Specialist Hospital & Research Centre
+2019/6/6,100000016,Mayo Clinic
+2019/2/13,100000267,St Thomas Hospital London
+2020/11/1,100000100,Dar Al Shifa Hospital
+2021/6/4,100000270,Al-Hilal Hospital
+2019/10/12,100000009,Mayo Clinic
+2021/3/9,100000229,King Faisal Specialist Hospital & Research Centre
+2021/5/10,100000202,King Hamad University Hospital
+2019/2/4,100000190,Al-Hilal Hospital
+2019/2/21,100000213,Emirates Hospital
+2020/11/17,100000036,King Faisal Specialist Hospital & Research Centre
+2020/1/4,100000298,Mayo Clinic
+2021/2/3,100000146,American Mission Hospital
+2020/1/4,100000211,American Mission Hospital
+2019/2/26,100000040,St Thomas Hospital London
+2020/8/21,100000240,Mayo Clinic
+2021/7/1,100000298,Salamaniya Hospital
+2021/7/10,100000204,Mayo Clinic
+2019/1/6,100000073,Dar Al Shifa Hospital
+2020/8/7,100000071,American Mission Hospital
+2021/11/7,100000236,St Thomas Hospital London
+2020/4/22,100000141,Dar Al Shifa Hospital
+2019/7/19,100000277,Mayo Clinic
+2021/5/22,100000053,Salamaniya Hospital
+2020/7/20,100000101,Dar Al Shifa Hospital
+2019/1/16,100000102,Salamaniya Hospital
+2020/4/21,100000177,Bahrain Defence Force Hospital
+2020/5/9,100000116,King Faisal Specialist Hospital & Research Centre
+2019/6/1,100000039,King Hamad University Hospital
+2021/7/15,100000208,St Thomas Hospital London
+2021/9/9,100000229,Al-Hilal Hospital
+2021/6/22,100000141,King Hamad University Hospital
+2021/3/12,100000186,American Mission Hospital
+2019/8/18,100000059,King Hamad University Hospital
+2021/10/4,100000047,American Mission Hospital
+2019/4/23,100000210,American Mission Hospital
+2020/9/19,100000242,American Mission Hospital
+2021/4/5,100000252,King Hamad University Hospital
+2021/7/2,100000193,Mayo Clinic
+2020/4/21,100000212,Salamaniya Hospital
+2019/9/9,100000280,St Thomas Hospital London
+2019/10/4,100000176,Mayo Clinic
+2021/3/23,100000260,King Faisal Specialist Hospital & Research Centre
+2020/7/14,100000036,American Mission Hospital
+2020/11/11,100000220,Bahrain Defence Force Hospital
+2021/4/3,100000178,Salamaniya Hospital
+2021/10/4,100000254,Salamaniya Hospital
+2019/1/1,100000268,Dar Al Shifa Hospital
+2020/10/10,100000086,St Thomas Hospital London
+2021/1/1,100000174,American Mission Hospital
+2019/4/8,100000183,King Faisal Specialist Hospital & Research Centre
+2019/11/21,100000037,King Hamad University Hospital
+2019/7/27,100000210,Bahrain Defence Force Hospital
+2021/2/16,100000232,Dar Al Shifa Hospital
+2019/1/7,100000032,Bahrain Defence Force Hospital
+2021/6/6,100000260,Salamaniya Hospital
+2021/10/17,100000085,St Thomas Hospital London
+2021/11/8,100000149,Al-Hilal Hospital
+2021/4/3,100000171,Mayo Clinic
+2021/1/6,100000066,Al-Hilal Hospital
+2021/2/24,100000223,Salamaniya Hospital
+2021/11/8,100000134,Al-Hilal Hospital
+2020/4/3,100000009,St Thomas Hospital London
+2019/8/6,100000267,St Thomas Hospital London
+2020/7/18,100000191,American Mission Hospital
+2020/9/13,100000053,King Hamad University Hospital
+2021/1/22,100000061,Salamaniya Hospital
+2020/3/14,100000098,Emirates Hospital
+2020/7/16,100000042,St Thomas Hospital London
+2019/5/6,100000244,King Hamad University Hospital
+2021/8/23,100000264,Al-Hilal Hospital
+2021/6/4,100000133,King Hamad University Hospital
+2020/8/15,100000133,St Thomas Hospital London
+2020/10/21,100000298,St Thomas Hospital London
+2020/11/1,100000201,American Mission Hospital
+2020/1/26,100000285,King Faisal Specialist Hospital & Research Centre
+2021/5/25,100000151,Salamaniya Hospital
+2021/6/7,100000255,Al-Hilal Hospital
+2019/1/11,100000225,American Mission Hospital
+2021/9/7,100000145,Dar Al Shifa Hospital
+2021/3/15,100000286,King Faisal Specialist Hospital & Research Centre
+2021/5/7,100000110,King Faisal Specialist Hospital & Research Centre
+2021/8/15,100000041,Salamaniya Hospital
+2020/11/9,100000070,Salamaniya Hospital
+2021/9/10,100000272,American Mission Hospital
+2020/10/13,100000296,St Thomas Hospital London
+2020/4/17,100000101,Emirates Hospital
+2021/3/9,100000284,St Thomas Hospital London
+2021/4/2,100000166,Mayo Clinic
+2020/8/14,100000186,King Hamad University Hospital
+2021/11/4,100000109,Mayo Clinic
+2020/8/18,100000013,Dar Al Shifa Hospital
+2019/11/7,100000016,Mayo Clinic
+2019/6/19,100000054,Emirates Hospital
+2021/6/20,100000181,Bahrain Defence Force Hospital
+2020/9/16,100000024,Emirates Hospital
+2021/4/4,100000273,St Thomas Hospital London
+2020/1/11,100000002,American Mission Hospital
+2021/6/2,100000031,Emirates Hospital
+2020/5/20,100000290,St Thomas Hospital London
+2020/11/26,100000157,Salamaniya Hospital
+2019/5/22,100000160,Dar Al Shifa Hospital
+2019/5/5,100000291,Bahrain Defence Force Hospital
+2020/7/27,100000123,King Hamad University Hospital
+2019/9/17,100000148,Salamaniya Hospital
+2020/3/24,100000155,Mayo Clinic
+2020/5/24,100000073,Salamaniya Hospital
+2020/3/13,100000113,Emirates Hospital
+2020/10/16,100000296,American Mission Hospital
+2021/1/15,100000246,American Mission Hospital
+2019/7/24,100000219,King Faisal Specialist Hospital & Research Centre
+2021/7/8,100000096,Bahrain Defence Force Hospital
+2020/3/23,100000034,St Thomas Hospital London
+2019/6/20,100000091,Mayo Clinic
+2021/3/11,100000283,St Thomas Hospital London
+2021/4/21,100000212,Al-Hilal Hospital
+2020/10/22,100000156,Salamaniya Hospital
+2019/11/22,100000116,St Thomas Hospital London
+2019/7/23,100000278,St Thomas Hospital London
+2019/6/15,100000222,St Thomas Hospital London
+2020/7/9,100000128,American Mission Hospital
+2021/8/19,100000106,Emirates Hospital
+2020/7/8,100000156,Bahrain Defence Force Hospital
+2021/6/12,100000188,Dar Al Shifa Hospital
+2020/9/1,100000049,American Mission Hospital
+2021/8/27,100000216,Al-Hilal Hospital
+2021/2/2,100000009,King Faisal Specialist Hospital & Research Centre
+2019/1/6,100000028,Salamaniya Hospital
+2019/4/15,100000213,Dar Al Shifa Hospital
+2020/11/6,100000086,King Faisal Specialist Hospital & Research Centre
+2020/5/1,100000237,King Hamad University Hospital
+2021/5/23,100000251,Bahrain Defence Force Hospital
+2019/6/3,100000127,Bahrain Defence Force Hospital
+2019/2/23,100000211,King Faisal Specialist Hospital & Research Centre
+2019/9/8,100000101,King Hamad University Hospital
+2020/5/9,100000016,Al-Hilal Hospital
+2021/6/24,100000107,Salamaniya Hospital
+2020/4/22,100000028,Salamaniya Hospital
+2020/3/13,100000072,King Faisal Specialist Hospital & Research Centre
+2021/9/18,100000205,Mayo Clinic
+2020/6/27,100000266,Salamaniya Hospital
+2019/3/6,100000081,King Faisal Specialist Hospital & Research Centre
+2021/4/6,100000020,American Mission Hospital
+2019/11/26,100000129,St Thomas Hospital London
+2021/11/8,100000283,American Mission Hospital
+2019/5/8,100000217,Salamaniya Hospital
+2020/9/24,100000075,American Mission Hospital
+2020/7/10,100000244,Al-Hilal Hospital
+2021/2/25,100000187,Salamaniya Hospital
+2021/4/8,100000162,Mayo Clinic
+2020/4/13,100000154,King Hamad University Hospital
+2020/5/3,100000130,Al-Hilal Hospital
+2019/11/7,100000156,Mayo Clinic
+2019/8/24,100000057,King Hamad University Hospital
+2020/11/16,100000065,St Thomas Hospital London
+2021/10/10,100000011,King Hamad University Hospital
+2021/4/24,100000010,Bahrain Defence Force Hospital
+2020/9/19,100000251,St Thomas Hospital London
+2020/11/22,100000109,King Faisal Specialist Hospital & Research Centre
+2020/3/11,100000105,King Faisal Specialist Hospital & Research Centre
+2021/4/11,100000233,King Hamad University Hospital
+2020/10/17,100000060,Bahrain Defence Force Hospital
+2021/4/21,100000088,Bahrain Defence Force Hospital
+2021/5/26,100000011,Al-Hilal Hospital
+2021/4/4,100000197,Mayo Clinic
+2021/10/2,100000187,Bahrain Defence Force Hospital
+2021/4/26,100000278,St Thomas Hospital London
+2021/4/26,100000012,King Faisal Specialist Hospital & Research Centre
+2019/1/1,100000036,Salamaniya Hospital
+2020/8/12,100000116,Salamaniya Hospital
+2021/3/26,100000199,St Thomas Hospital London
+2021/2/17,100000271,Bahrain Defence Force Hospital
+2020/9/8,100000231,King Faisal Specialist Hospital & Research Centre
+2019/10/4,100000201,Bahrain Defence Force Hospital
+2020/1/11,100000282,Bahrain Defence Force Hospital
+2020/2/5,100000094,American Mission Hospital
+2019/7/5,100000170,Salamaniya Hospital
+2020/4/20,100000006,American Mission Hospital
+2021/5/22,100000024,Bahrain Defence Force Hospital
+2020/7/26,100000150,Al-Hilal Hospital
+2021/4/1,100000154,Mayo Clinic
+2019/3/7,100000063,Al-Hilal Hospital
+2021/4/20,100000132,American Mission Hospital
+2021/3/1,100000250,American Mission Hospital
+2021/9/24,100000123,Salamaniya Hospital
+2020/2/25,100000094,Al-Hilal Hospital
+2020/8/14,100000107,Salamaniya Hospital
+2021/5/4,100000282,King Hamad University Hospital
+2020/3/8,100000240,Salamaniya Hospital
+2021/5/7,100000276,Bahrain Defence Force Hospital
+2021/9/16,100000050,King Faisal Specialist Hospital & Research Centre
+2020/8/21,100000097,American Mission Hospital
+2019/6/10,100000244,Salamaniya Hospital
+2019/6/20,100000249,Bahrain Defence Force Hospital
+2021/2/26,100000127,Mayo Clinic
+2020/5/20,100000088,Bahrain Defence Force Hospital
+2020/8/13,100000134,Emirates Hospital
+2021/3/3,100000007,Emirates Hospital
+2021/1/23,100000082,St Thomas Hospital London
+2020/10/2,100000048,Bahrain Defence Force Hospital
+2020/11/25,100000117,St Thomas Hospital London
+2021/3/13,100000179,Mayo Clinic
+2019/5/14,100000009,King Hamad University Hospital
+2019/1/4,100000245,Mayo Clinic
+2019/2/22,100000072,Salamaniya Hospital
+2019/3/24,100000260,Mayo Clinic
+2020/9/5,100000054,Bahrain Defence Force Hospital
+2019/6/4,100000055,Bahrain Defence Force Hospital
+2021/9/7,100000122,King Hamad University Hospital
+2021/10/1,100000249,King Hamad University Hospital
+2020/2/26,100000227,Al-Hilal Hospital
+2019/9/10,100000158,Mayo Clinic
+2021/3/10,100000280,Mayo Clinic
+2021/11/25,100000246,Emirates Hospital
+2020/1/8,100000083,Mayo Clinic
+2020/7/25,100000013,Mayo Clinic
+2019/1/21,100000174,Mayo Clinic
+2020/9/18,100000249,Mayo Clinic
+2021/10/5,100000191,American Mission Hospital
+2021/9/17,100000253,American Mission Hospital
+2020/6/12,100000267,Bahrain Defence Force Hospital
+2020/5/16,100000217,Al-Hilal Hospital
+2020/7/16,100000292,Al-Hilal Hospital
+2019/4/14,100000017,Emirates Hospital
+2020/3/5,100000275,American Mission Hospital
+2020/9/18,100000152,Bahrain Defence Force Hospital
+2020/8/2,100000204,Dar Al Shifa Hospital
+2020/3/4,100000209,King Hamad University Hospital
+2021/8/15,100000064,Al-Hilal Hospital
+2020/11/13,100000239,Dar Al Shifa Hospital
+2021/11/26,100000139,Al-Hilal Hospital
+2019/7/10,100000226,Mayo Clinic
+2019/2/19,100000274,Mayo Clinic
+2019/4/17,100000102,Emirates Hospital
+2019/11/4,100000237,Bahrain Defence Force Hospital
+2020/9/15,100000146,American Mission Hospital
+2021/6/7,100000274,Emirates Hospital
+2020/6/26,100000079,Emirates Hospital
+2020/11/18,100000292,Al-Hilal Hospital
+2019/6/23,100000011,Mayo Clinic
+2020/4/6,100000263,Dar Al Shifa Hospital
+2019/7/22,100000126,Al-Hilal Hospital
+2020/2/23,100000220,Mayo Clinic
+2021/3/25,100000111,King Hamad University Hospital
+2021/9/25,100000273,St Thomas Hospital London
+2019/2/10,100000250,Emirates Hospital
+2019/4/11,100000138,King Hamad University Hospital
+2019/3/12,100000236,Salamaniya Hospital
+2021/9/9,100000134,Emirates Hospital
+2019/9/21,100000086,King Hamad University Hospital
+2020/1/18,100000140,St Thomas Hospital London
+2019/4/19,100000295,Bahrain Defence Force Hospital
+2021/5/24,100000191,Emirates Hospital
+2021/9/21,100000092,Salamaniya Hospital
+2019/10/6,100000007,St Thomas Hospital London
+2021/6/23,100000172,Al-Hilal Hospital
+2019/2/8,100000068,Dar Al Shifa Hospital
+2021/3/3,100000097,Dar Al Shifa Hospital
+2020/5/5,100000117,American Mission Hospital
+2019/8/1,100000084,American Mission Hospital
+2019/3/4,100000126,St Thomas Hospital London
+2021/4/19,100000026,Emirates Hospital
+2019/2/14,100000138,St Thomas Hospital London
+2020/1/24,100000046,Al-Hilal Hospital
+2020/6/3,100000275,St Thomas Hospital London
+2020/10/1,100000010,King Faisal Specialist Hospital & Research Centre
+2021/8/18,100000040,Bahrain Defence Force Hospital
+2019/8/18,100000003,American Mission Hospital
+2019/10/18,100000087,Al-Hilal Hospital
+2021/6/3,100000162,Salamaniya Hospital
+2020/5/12,100000209,Al-Hilal Hospital
+2020/4/2,100000025,Bahrain Defence Force Hospital
+2020/4/5,100000291,Dar Al Shifa Hospital
+2020/9/25,100000110,Emirates Hospital
+2021/1/16,100000136,Dar Al Shifa Hospital
+2021/11/15,100000023,St Thomas Hospital London
+2021/11/23,100000047,Mayo Clinic
+2020/9/24,100000086,Bahrain Defence Force Hospital
+2019/4/15,100000228,King Hamad University Hospital
+2021/2/10,100000169,Al-Hilal Hospital
+2020/7/1,100000116,King Faisal Specialist Hospital & Research Centre
+2021/3/20,100000015,Emirates Hospital
+2021/6/19,100000012,St Thomas Hospital London
+2019/11/19,100000271,Bahrain Defence Force Hospital
+2019/3/14,100000286,King Faisal Specialist Hospital & Research Centre
+2020/7/6,100000226,King Faisal Specialist Hospital & Research Centre
+2020/1/18,100000175,Mayo Clinic
+2019/8/13,100000149,American Mission Hospital
+2019/11/20,100000074,Dar Al Shifa Hospital
+2020/11/4,100000267,Al-Hilal Hospital
+2021/8/16,100000130,Emirates Hospital
+2021/1/4,100000276,Emirates Hospital
+2019/5/10,100000057,Dar Al Shifa Hospital
+2019/7/3,100000295,King Faisal Specialist Hospital & Research Centre
+2019/7/16,100000049,St Thomas Hospital London
+2019/8/11,100000100,Al-Hilal Hospital
+2020/11/8,100000107,Bahrain Defence Force Hospital
+2021/6/15,100000259,Dar Al Shifa Hospital
+2020/7/16,100000233,American Mission Hospital
+2019/2/22,100000016,Emirates Hospital
+2021/5/3,100000003,Dar Al Shifa Hospital
+2021/10/5,100000136,Emirates Hospital
+2021/11/3,100000002,St Thomas Hospital London
+2019/4/1,100000288,St Thomas Hospital London
+2021/11/21,100000151,Dar Al Shifa Hospital
+2021/5/20,100000249,St Thomas Hospital London
+2021/10/4,100000212,St Thomas Hospital London
+2021/8/10,100000042,King Hamad University Hospital
+2020/6/24,100000110,Dar Al Shifa Hospital
+2020/8/2,100000087,Bahrain Defence Force Hospital
+2019/10/26,100000207,King Hamad University Hospital
+2020/10/26,100000058,Emirates Hospital
+2019/6/6,100000172,American Mission Hospital
+2021/5/3,100000033,Mayo Clinic
+2019/10/22,100000005,Al-Hilal Hospital
+2019/6/6,100000145,Bahrain Defence Force Hospital
+2019/4/18,100000035,St Thomas Hospital London
+2020/9/17,100000115,King Hamad University Hospital
+2020/5/26,100000149,Al-Hilal Hospital
+2019/6/7,100000126,King Faisal Specialist Hospital & Research Centre
+2021/2/9,100000050,Al-Hilal Hospital
+2020/2/7,100000285,Al-Hilal Hospital
+2020/4/22,100000161,Emirates Hospital
+2021/2/27,100000098,Mayo Clinic
+2019/11/19,100000284,King Hamad University Hospital
+2021/5/15,100000178,King Faisal Specialist Hospital & Research Centre
+2020/11/14,100000176,Dar Al Shifa Hospital
+2020/3/14,100000252,Dar Al Shifa Hospital
+2020/4/6,100000062,Dar Al Shifa Hospital
+2019/7/17,100000215,Salamaniya Hospital
+2019/4/24,100000067,Al-Hilal Hospital
+2019/9/11,100000191,Salamaniya Hospital
+2020/4/26,100000106,King Hamad University Hospital
+2019/9/21,100000221,Dar Al Shifa Hospital
+2021/3/25,100000221,St Thomas Hospital London
+2019/3/12,100000040,Mayo Clinic
+2020/11/15,100000010,St Thomas Hospital London
+2020/4/10,100000159,St Thomas Hospital London
+2019/6/9,100000018,King Hamad University Hospital
+2021/5/13,100000110,Salamaniya Hospital
+2020/2/14,100000049,King Faisal Specialist Hospital & Research Centre
+2020/5/21,100000004,Salamaniya Hospital
+2019/4/24,100000219,Bahrain Defence Force Hospital
+2021/2/11,100000014,Al-Hilal Hospital
+2020/2/22,100000175,American Mission Hospital
+2019/1/19,100000006,King Hamad University Hospital
+2020/6/15,100000238,Dar Al Shifa Hospital
+2021/10/14,100000222,King Hamad University Hospital
+2021/7/4,100000235,King Hamad University Hospital
+2019/8/3,100000126,Dar Al Shifa Hospital
+2019/7/27,100000044,King Hamad University Hospital
+2020/8/24,100000109,King Faisal Specialist Hospital & Research Centre
+2021/9/16,100000266,St Thomas Hospital London
+2019/4/5,100000170,St Thomas Hospital London
+2021/9/4,100000154,St Thomas Hospital London
+2021/4/17,100000104,King Faisal Specialist Hospital & Research Centre
+2021/1/14,100000179,Mayo Clinic
+2019/4/17,100000076,Salamaniya Hospital
+2021/10/8,100000290,Emirates Hospital
+2019/3/4,100000265,Salamaniya Hospital
+2019/1/21,100000205,King Faisal Specialist Hospital & Research Centre
+2020/8/27,100000077,St Thomas Hospital London
+2019/11/18,100000139,Mayo Clinic
+2020/1/2,100000282,King Hamad University Hospital
+2019/9/4,100000170,Emirates Hospital
+2020/10/14,100000051,King Faisal Specialist Hospital & Research Centre
+2021/5/16,100000169,Emirates Hospital
+2019/11/11,100000298,Emirates Hospital
+2019/6/4,100000111,King Hamad University Hospital
+2020/7/16,100000005,American Mission Hospital
+2020/5/5,100000286,Mayo Clinic
+2020/10/26,100000280,Emirates Hospital
+2019/5/25,100000030,Emirates Hospital
+2020/6/7,100000215,Mayo Clinic
+2020/11/3,100000133,Bahrain Defence Force Hospital
+2021/8/13,100000299,Bahrain Defence Force Hospital
+2021/4/24,100000263,Emirates Hospital
+2021/4/18,100000129,Dar Al Shifa Hospital
+2021/9/4,100000074,American Mission Hospital
+2021/10/13,100000295,Emirates Hospital
+2020/1/23,100000013,King Faisal Specialist Hospital & Research Centre
+2021/6/14,100000154,Emirates Hospital
+2020/9/20,100000129,Salamaniya Hospital
+2021/1/20,100000040,Bahrain Defence Force Hospital
+2020/1/9,100000283,Mayo Clinic
+2020/1/2,100000109,Emirates Hospital
+2020/4/6,100000127,American Mission Hospital
+2020/5/18,100000267,Mayo Clinic
+2019/8/24,100000290,Emirates Hospital
+2020/11/8,100000281,Emirates Hospital
+2019/4/8,100000102,American Mission Hospital
+2021/6/18,100000207,Emirates Hospital
+2020/3/15,100000146,Salamaniya Hospital
+2021/9/14,100000059,Salamaniya Hospital
+2019/9/9,100000041,St Thomas Hospital London
+2020/1/17,100000058,Al-Hilal Hospital
+2020/7/7,100000254,King Faisal Specialist Hospital & Research Centre
+2019/2/20,100000135,Salamaniya Hospital
+2020/11/12,100000089,Dar Al Shifa Hospital
+2019/11/12,100000293,St Thomas Hospital London
+2021/8/23,100000296,Bahrain Defence Force Hospital
+2019/7/25,100000290,Al-Hilal Hospital
+2019/1/6,100000219,Bahrain Defence Force Hospital
+2019/11/1,100000189,King Hamad University Hospital
+2019/3/22,100000267,Emirates Hospital
+2019/8/27,100000127,Mayo Clinic
+2020/6/13,100000027,Mayo Clinic
+2021/6/8,100000182,St Thomas Hospital London
+2020/4/27,100000215,Salamaniya Hospital
+2021/1/12,100000204,Mayo Clinic
+2021/10/9,100000192,Al-Hilal Hospital
+2020/3/6,100000279,St Thomas Hospital London
+2019/4/27,100000055,King Hamad University Hospital
+2021/8/4,100000241,Mayo Clinic
+2019/3/20,100000269,King Faisal Specialist Hospital & Research Centre
+2020/11/26,100000288,Al-Hilal Hospital
+2019/9/19,100000069,Dar Al Shifa Hospital
+2019/6/9,100000011,Emirates Hospital
+2020/7/9,100000216,St Thomas Hospital London
+2020/9/4,100000030,Salamaniya Hospital
+2019/2/14,100000074,King Hamad University Hospital
+2019/5/4,100000021,Dar Al Shifa Hospital
+2020/2/2,100000066,Al-Hilal Hospital
+2021/8/5,100000196,Al-Hilal Hospital
+2019/3/26,100000015,Salamaniya Hospital
+2021/6/1,100000049,Salamaniya Hospital
+2019/2/5,100000212,Al-Hilal Hospital
+2019/9/10,100000215,American Mission Hospital
+2021/4/14,100000208,St Thomas Hospital London
+2021/4/20,100000120,Salamaniya Hospital
+2019/5/1,100000101,Emirates Hospital
+2019/11/19,100000051,Dar Al Shifa Hospital
+2019/8/5,100000066,Emirates Hospital
+2020/9/19,100000157,American Mission Hospital
+2020/8/7,100000227,St Thomas Hospital London
+2020/1/17,100000006,Salamaniya Hospital
+2021/4/22,100000104,Al-Hilal Hospital
+2019/5/5,100000059,King Hamad University Hospital
+2019/10/6,100000265,Dar Al Shifa Hospital
+2021/11/24,100000265,King Hamad University Hospital
+2019/7/26,100000272,American Mission Hospital
+2021/5/10,100000181,Bahrain Defence Force Hospital
+2019/9/26,100000107,American Mission Hospital
+2019/1/2,100000278,American Mission Hospital
+2020/11/19,100000227,King Hamad University Hospital
+2020/7/24,100000243,King Faisal Specialist Hospital & Research Centre
+2021/2/14,100000124,St Thomas Hospital London
+2019/9/23,100000029,American Mission Hospital
+2021/11/7,100000038,Dar Al Shifa Hospital
+2021/10/2,100000226,Emirates Hospital
+2020/11/6,100000110,Salamaniya Hospital
+2019/9/26,100000097,Emirates Hospital
+2021/4/13,100000249,Emirates Hospital
+2021/3/2,100000202,Bahrain Defence Force Hospital
+2020/2/7,100000063,Bahrain Defence Force Hospital
+2019/11/5,100000116,King Hamad University Hospital
+2021/5/7,100000029,Bahrain Defence Force Hospital
+2021/3/8,100000151,Al-Hilal Hospital
+2019/6/12,100000076,King Hamad University Hospital
+2020/8/16,100000107,Salamaniya Hospital
+2019/11/14,100000232,King Hamad University Hospital
+2020/10/24,100000247,Dar Al Shifa Hospital
+2021/9/7,100000188,St Thomas Hospital London
+2019/1/9,100000252,Salamaniya Hospital
+2021/11/21,100000148,St Thomas Hospital London
+2021/8/3,100000017,Mayo Clinic
+2019/11/23,100000121,American Mission Hospital
+2020/3/18,100000220,King Faisal Specialist Hospital & Research Centre
+2019/9/17,100000272,St Thomas Hospital London
+2021/8/16,100000190,King Hamad University Hospital
+2019/8/17,100000133,Bahrain Defence Force Hospital
+2021/1/23,100000148,Dar Al Shifa Hospital
+2019/2/3,100000248,Bahrain Defence Force Hospital
+2021/11/9,100000199,St Thomas Hospital London
+2020/10/20,100000017,Emirates Hospital
+2019/10/19,100000226,Emirates Hospital
+2019/7/25,100000238,Mayo Clinic
+2020/10/17,100000004,Bahrain Defence Force Hospital
+2020/11/6,100000073,Mayo Clinic
+2021/3/22,100000175,Al-Hilal Hospital
+2019/6/26,100000002,Bahrain Defence Force Hospital
+2020/9/22,100000009,Al-Hilal Hospital
+2020/6/26,100000138,Al-Hilal Hospital
+2021/6/19,100000130,Salamaniya Hospital
+2021/1/14,100000060,King Hamad University Hospital
+2019/10/7,100000018,Mayo Clinic
+2019/3/25,100000063,Al-Hilal Hospital
+2021/7/8,100000003,St Thomas Hospital London
+2021/7/7,100000267,Mayo Clinic
+2019/11/13,100000181,King Hamad University Hospital
+2021/1/5,100000243,Dar Al Shifa Hospital
+2020/9/15,100000216,King Faisal Specialist Hospital & Research Centre
+2021/6/5,100000026,Bahrain Defence Force Hospital
+2021/6/10,100000035,Emirates Hospital
+2021/6/1,100000148,Bahrain Defence Force Hospital
+2019/5/2,100000049,American Mission Hospital
+2021/6/26,100000092,Emirates Hospital
+2021/9/26,100000209,King Faisal Specialist Hospital & Research Centre
+2020/11/20,100000273,King Faisal Specialist Hospital & Research Centre
+2021/5/20,100000104,St Thomas Hospital London
+2021/9/4,100000173,Mayo Clinic
+2020/5/5,100000186,St Thomas Hospital London
+2019/5/11,100000267,Bahrain Defence Force Hospital
+2019/3/2,100000087,St Thomas Hospital London
+2019/9/9,100000256,American Mission Hospital
+2020/2/19,100000199,Al-Hilal Hospital
+2021/5/7,100000111,King Faisal Specialist Hospital & Research Centre
+2021/10/19,100000100,Al-Hilal Hospital
+2021/6/1,100000001,Bahrain Defence Force Hospital
+2019/6/4,100000054,St Thomas Hospital London
+2020/9/18,100000238,Bahrain Defence Force Hospital
+2020/5/19,100000078,Bahrain Defence Force Hospital
+2019/11/10,100000112,Bahrain Defence Force Hospital
+2020/8/18,100000280,Bahrain Defence Force Hospital
+2019/11/11,100000199,King Hamad University Hospital
+2021/8/14,100000214,Emirates Hospital
+2021/5/19,100000064,King Hamad University Hospital
+2021/6/7,100000176,Dar Al Shifa Hospital
+2021/7/23,100000205,Dar Al Shifa Hospital
+2021/5/24,100000013,St Thomas Hospital London
+2021/7/4,100000181,Salamaniya Hospital
+2021/1/23,100000163,St Thomas Hospital London
+2021/3/7,100000204,Bahrain Defence Force Hospital
+2019/9/19,100000158,Salamaniya Hospital
+2021/10/14,100000195,Bahrain Defence Force Hospital
+2019/11/18,100000253,Salamaniya Hospital
+2020/8/12,100000122,Bahrain Defence Force Hospital
+2020/2/26,100000121,Al-Hilal Hospital
+2021/2/11,100000101,Bahrain Defence Force Hospital
+2020/11/6,100000033,Al-Hilal Hospital
+2019/10/3,100000110,Al-Hilal Hospital
+2020/7/17,100000275,American Mission Hospital
+2021/1/20,100000244,Salamaniya Hospital
+2019/7/27,100000159,Mayo Clinic
+2019/2/27,100000229,Al-Hilal Hospital
+2021/1/7,100000247,American Mission Hospital
+2020/5/26,100000281,Emirates Hospital
+2021/6/13,100000272,King Hamad University Hospital
+2019/10/1,100000005,Bahrain Defence Force Hospital
+2019/9/21,100000250,American Mission Hospital
+2019/8/17,100000171,Al-Hilal Hospital
+2019/5/7,100000193,Salamaniya Hospital
+2021/6/16,100000038,Al-Hilal Hospital
+2020/3/20,100000098,American Mission Hospital
+2021/6/3,100000031,Mayo Clinic
+2020/6/2,100000046,Mayo Clinic
+2020/9/25,100000033,Bahrain Defence Force Hospital
+2020/8/18,100000220,American Mission Hospital
+2019/3/8,100000011,Mayo Clinic
+2020/11/2,100000218,American Mission Hospital
+2021/1/14,100000167,Salamaniya Hospital
+2021/1/13,100000221,St Thomas Hospital London
+2019/5/26,100000171,St Thomas Hospital London
+2019/4/27,100000068,King Faisal Specialist Hospital & Research Centre
+2021/5/2,100000265,American Mission Hospital
+2020/6/25,100000101,American Mission Hospital
+2020/6/16,100000230,St Thomas Hospital London
+2019/1/2,100000076,Al-Hilal Hospital
+2019/5/3,100000124,American Mission Hospital
+2021/9/11,100000232,Bahrain Defence Force Hospital
+2019/10/14,100000285,Salamaniya Hospital
+2021/7/11,100000224,Bahrain Defence Force Hospital
+2021/7/16,100000013,Dar Al Shifa Hospital
+2020/7/1,100000140,King Hamad University Hospital
+2020/1/4,100000056,Bahrain Defence Force Hospital
+2019/9/5,100000031,King Faisal Specialist Hospital & Research Centre
+2020/4/24,100000194,St Thomas Hospital London
+2020/11/6,100000025,Al-Hilal Hospital
+2020/5/5,100000220,Emirates Hospital
+2020/7/11,100000146,Mayo Clinic
+2019/7/16,100000010,Dar Al Shifa Hospital
+2020/7/22,100000282,Dar Al Shifa Hospital
+2021/1/15,100000100,St Thomas Hospital London
+2019/8/7,100000100,Salamaniya Hospital
+2019/6/3,100000162,St Thomas Hospital London
+2020/1/8,100000137,Al-Hilal Hospital
+2021/7/18,100000048,King Faisal Specialist Hospital & Research Centre
+2021/11/12,100000126,King Hamad University Hospital
+2020/6/2,100000126,St Thomas Hospital London
+2020/9/15,100000080,King Faisal Specialist Hospital & Research Centre
+2020/5/5,100000193,American Mission Hospital
+2019/1/25,100000294,American Mission Hospital
+2019/1/9,100000074,American Mission Hospital
+2020/3/19,100000259,King Faisal Specialist Hospital & Research Centre
+2019/6/22,100000255,Salamaniya Hospital
+2020/5/4,100000060,St Thomas Hospital London
+2019/10/14,100000041,American Mission Hospital
+2020/3/16,100000220,Al-Hilal Hospital
+2020/8/23,100000020,Salamaniya Hospital
+2019/7/6,100000063,Al-Hilal Hospital
+2021/6/1,100000048,American Mission Hospital
+2020/3/18,100000136,St Thomas Hospital London
+2021/4/12,100000079,Mayo Clinic
+2020/9/14,100000230,Bahrain Defence Force Hospital
+2019/5/27,100000146,King Faisal Specialist Hospital & Research Centre
+2020/5/17,100000060,Bahrain Defence Force Hospital
+2021/3/9,100000070,Al-Hilal Hospital
+2021/7/10,100000164,Salamaniya Hospital
+2021/5/1,100000118,Bahrain Defence Force Hospital
+2020/7/24,100000176,St Thomas Hospital London
+2021/9/21,100000039,Emirates Hospital
+2021/2/25,100000129,St Thomas Hospital London
+2019/9/24,100000082,St Thomas Hospital London
+2020/3/23,100000112,Bahrain Defence Force Hospital
+2021/2/5,100000084,Dar Al Shifa Hospital
+2020/9/26,100000209,Salamaniya Hospital
+2020/3/17,100000196,American Mission Hospital
+2021/8/2,100000232,Salamaniya Hospital
+2020/1/15,100000282,Dar Al Shifa Hospital
+2020/1/14,100000019,Salamaniya Hospital
+2020/11/21,100000221,Bahrain Defence Force Hospital
+2019/1/8,100000049,Al-Hilal Hospital
+2020/3/4,100000293,Dar Al Shifa Hospital
+2021/8/9,100000021,Emirates Hospital
+2020/11/2,100000199,Dar Al Shifa Hospital
+2020/4/12,100000277,Dar Al Shifa Hospital
+2020/6/25,100000074,Al-Hilal Hospital
+2021/3/23,100000136,Al-Hilal Hospital
+2021/10/1,100000007,Dar Al Shifa Hospital
+2021/3/3,100000235,American Mission Hospital
+2021/4/4,100000111,King Hamad University Hospital
+2019/6/17,100000062,Mayo Clinic
+2020/7/24,100000124,American Mission Hospital
+2021/10/3,100000163,Mayo Clinic
+2021/2/27,100000027,King Hamad University Hospital
+2019/10/9,100000093,Al-Hilal Hospital
+2021/6/8,100000280,St Thomas Hospital London
+2019/5/16,100000030,Al-Hilal Hospital
+2021/7/27,100000083,King Faisal Specialist Hospital & Research Centre
+2021/9/25,100000283,King Hamad University Hospital
+2021/11/10,100000037,St Thomas Hospital London
+2020/11/3,100000144,St Thomas Hospital London
+2019/6/19,100000221,Al-Hilal Hospital
+2019/9/25,100000167,St Thomas Hospital London
+2019/6/27,100000104,King Faisal Specialist Hospital & Research Centre
+2019/1/1,100000264,Salamaniya Hospital
+2020/10/9,100000248,Emirates Hospital
+2021/4/3,100000294,King Hamad University Hospital
+2020/6/1,100000238,Emirates Hospital
+2021/9/4,100000092,Emirates Hospital
+2021/2/23,100000216,Dar Al Shifa Hospital
+2021/6/16,100000017,Emirates Hospital
+2020/1/14,100000166,St Thomas Hospital London
+2020/10/25,100000282,Emirates Hospital
+2019/2/18,100000018,St Thomas Hospital London
+2020/9/14,100000010,King Hamad University Hospital
+2020/11/26,100000274,American Mission Hospital
+2021/6/21,100000155,Bahrain Defence Force Hospital
+2021/11/3,100000233,Mayo Clinic
+2019/8/7,100000267,King Hamad University Hospital
+2021/5/3,100000059,Al-Hilal Hospital
+2020/3/23,100000090,St Thomas Hospital London
+2020/7/14,100000217,Mayo Clinic
+2020/1/3,100000061,Mayo Clinic
+2020/11/4,100000016,Bahrain Defence Force Hospital
+2021/4/5,100000055,Emirates Hospital
+2019/7/18,100000080,King Faisal Specialist Hospital & Research Centre
+2019/5/17,100000170,Bahrain Defence Force Hospital
+2019/8/12,100000040,Dar Al Shifa Hospital
+2021/10/25,100000297,American Mission Hospital
+2019/10/3,100000117,Salamaniya Hospital
+2020/5/9,100000192,Dar Al Shifa Hospital
+2019/11/21,100000013,St Thomas Hospital London
+2019/1/26,100000267,Dar Al Shifa Hospital
+2019/7/6,100000295,St Thomas Hospital London
+2021/2/27,100000117,Mayo Clinic
+2020/6/2,100000169,American Mission Hospital
+2020/8/9,100000217,St Thomas Hospital London
+2021/11/23,100000004,American Mission Hospital
+2020/8/9,100000104,Salamaniya Hospital
+2019/10/10,100000295,King Hamad University Hospital
+2019/11/2,100000250,Bahrain Defence Force Hospital
+2020/2/22,100000248,Mayo Clinic
+2019/11/4,100000240,St Thomas Hospital London
+2021/1/7,100000152,King Faisal Specialist Hospital & Research Centre
+2021/3/15,100000223,Dar Al Shifa Hospital
+2021/4/12,100000082,Dar Al Shifa Hospital
+2021/9/6,100000128,Bahrain Defence Force Hospital
+2020/8/4,100000248,Mayo Clinic
+2021/3/24,100000091,St Thomas Hospital London
+2019/6/8,100000019,King Faisal Specialist Hospital & Research Centre
+2019/1/7,100000281,American Mission Hospital
+2019/4/3,100000202,Emirates Hospital
+2019/1/12,100000211,Al-Hilal Hospital
+2019/8/18,100000296,Dar Al Shifa Hospital
+2021/6/26,100000154,King Hamad University Hospital
+2019/7/21,100000260,Mayo Clinic
+2021/10/26,100000106,Emirates Hospital
+2021/1/17,100000150,American Mission Hospital
+2021/11/9,100000087,Bahrain Defence Force Hospital
+2019/9/17,100000083,Mayo Clinic
+2020/2/10,100000040,King Faisal Specialist Hospital & Research Centre
+2020/8/8,100000045,American Mission Hospital
+2021/9/10,100000045,Dar Al Shifa Hospital
+2020/2/9,100000060,American Mission Hospital
+2019/8/13,100000236,St Thomas Hospital London
+2020/2/17,100000298,Bahrain Defence Force Hospital
+2020/2/11,100000111,Mayo Clinic
+2020/5/9,100000110,American Mission Hospital
+2021/10/3,100000161,Dar Al Shifa Hospital
+2021/2/5,100000247,Salamaniya Hospital
+2020/10/21,100000188,Bahrain Defence Force Hospital
+2020/5/18,100000028,Bahrain Defence Force Hospital
+2020/4/23,100000298,King Faisal Specialist Hospital & Research Centre
+2020/6/19,100000214,St Thomas Hospital London
+2019/11/23,100000239,King Faisal Specialist Hospital & Research Centre
+2021/5/27,100000283,American Mission Hospital
+2019/8/8,100000089,Mayo Clinic
+2019/5/4,100000264,American Mission Hospital
+2020/2/24,100000055,Emirates Hospital
+2021/5/4,100000035,Emirates Hospital
+2020/4/8,100000182,Al-Hilal Hospital
+2020/2/24,100000178,Dar Al Shifa Hospital
+2020/2/8,100000260,Al-Hilal Hospital
+2021/5/7,100000024,Emirates Hospital
+2019/11/18,100000027,Bahrain Defence Force Hospital
+2021/5/17,100000040,King Hamad University Hospital
+2020/5/10,100000199,Dar Al Shifa Hospital
+2021/3/26,100000034,American Mission Hospital
+2019/7/25,100000082,American Mission Hospital
+2019/6/20,100000197,Emirates Hospital
+2021/2/16,100000154,Dar Al Shifa Hospital
+2020/9/6,100000048,Al-Hilal Hospital
+2019/4/18,100000183,Emirates Hospital
+2019/7/17,100000012,Emirates Hospital
+2021/5/21,100000096,Al-Hilal Hospital
+2021/1/2,100000287,Emirates Hospital
+2021/2/8,100000201,Mayo Clinic
+2021/1/13,100000128,St Thomas Hospital London
+2021/7/3,100000153,Bahrain Defence Force Hospital
+2020/2/15,100000154,King Faisal Specialist Hospital & Research Centre
+2021/11/24,100000050,Mayo Clinic
+2020/7/26,100000039,Salamaniya Hospital
+2021/3/19,100000069,Emirates Hospital
+2020/8/12,100000091,King Faisal Specialist Hospital & Research Centre
+2021/5/7,100000228,King Hamad University Hospital
+2020/3/11,100000075,American Mission Hospital
+2020/4/1,100000283,Al-Hilal Hospital
+2020/6/8,100000163,Emirates Hospital
+2021/3/21,100000013,Mayo Clinic
+2021/3/5,100000130,King Hamad University Hospital
+2021/4/19,100000170,Dar Al Shifa Hospital
+2019/1/23,100000123,Al-Hilal Hospital
+2019/10/9,100000173,King Faisal Specialist Hospital & Research Centre
+2020/4/25,100000010,King Hamad University Hospital
+2019/8/1,100000253,Al-Hilal Hospital
+2019/6/1,100000018,King Hamad University Hospital
+2021/10/1,100000187,Bahrain Defence Force Hospital
+2020/9/4,100000274,Salamaniya Hospital
+2021/3/7,100000056,Salamaniya Hospital
+2021/5/27,100000150,Emirates Hospital
+2019/3/7,100000267,Al-Hilal Hospital
+2019/9/12,100000122,American Mission Hospital
+2019/9/26,100000120,Dar Al Shifa Hospital
+2021/7/24,100000296,American Mission Hospital
+2021/4/1,100000062,St Thomas Hospital London
+2020/9/27,100000122,Salamaniya Hospital
+2019/10/21,100000017,King Faisal Specialist Hospital & Research Centre
+2019/8/12,100000234,Bahrain Defence Force Hospital
+2020/4/2,100000034,American Mission Hospital
+2019/8/23,100000240,Al-Hilal Hospital
+2020/1/3,100000275,Al-Hilal Hospital
+2020/10/24,100000250,Emirates Hospital
+2021/10/23,100000104,Bahrain Defence Force Hospital
+2019/6/26,100000208,Bahrain Defence Force Hospital
+2021/3/3,100000098,American Mission Hospital
+2021/4/18,100000097,Dar Al Shifa Hospital
+2020/2/25,100000088,Emirates Hospital
+2020/11/3,100000212,Al-Hilal Hospital
+2020/11/6,100000179,Bahrain Defence Force Hospital
+2020/6/6,100000283,Salamaniya Hospital
+2020/1/7,100000278,Dar Al Shifa Hospital
+2020/11/20,100000157,Dar Al Shifa Hospital
+2021/11/13,100000003,Emirates Hospital
+2020/7/24,100000132,Dar Al Shifa Hospital
+2020/8/14,100000073,Emirates Hospital
+2020/10/11,100000132,Bahrain Defence Force Hospital
+2020/7/25,100000226,Bahrain Defence Force Hospital
+2020/6/13,100000279,Salamaniya Hospital
+2019/8/19,100000220,Emirates Hospital
+2021/6/12,100000253,Emirates Hospital
+2020/9/16,100000292,Emirates Hospital
+2019/11/16,100000219,Salamaniya Hospital
+2021/4/10,100000053,Al-Hilal Hospital
+2019/4/16,100000010,Mayo Clinic
+2019/9/9,100000041,Bahrain Defence Force Hospital
+2020/3/21,100000148,Emirates Hospital
+2020/8/3,100000253,American Mission Hospital
+2019/6/13,100000046,King Faisal Specialist Hospital & Research Centre
+2019/1/13,100000226,Bahrain Defence Force Hospital
+2020/7/16,100000029,King Faisal Specialist Hospital & Research Centre
+2021/11/8,100000076,Bahrain Defence Force Hospital
+2019/5/9,100000234,King Faisal Specialist Hospital & Research Centre
+2021/2/17,100000198,St Thomas Hospital London
+2020/8/13,100000088,American Mission Hospital
+2019/3/1,100000016,King Hamad University Hospital
+2020/6/22,100000177,Al-Hilal Hospital
+2019/4/5,100000238,King Faisal Specialist Hospital & Research Centre
+2020/4/22,100000289,Bahrain Defence Force Hospital
+2019/8/18,100000294,Salamaniya Hospital
+2020/4/7,100000088,American Mission Hospital
+2019/7/22,100000204,American Mission Hospital
+2020/11/6,100000084,Emirates Hospital
+2019/6/19,100000094,Salamaniya Hospital
+2021/4/3,100000053,King Hamad University Hospital
+2020/3/16,100000298,Al-Hilal Hospital
+2019/11/9,100000048,Bahrain Defence Force Hospital
+2019/7/22,100000150,Mayo Clinic
+2021/2/10,100000209,Dar Al Shifa Hospital
+2021/10/23,100000160,Emirates Hospital
+2021/11/14,100000083,Al-Hilal Hospital
+2019/1/18,100000127,American Mission Hospital
+2021/9/18,100000049,Mayo Clinic
+2021/9/4,100000094,St Thomas Hospital London
+2019/7/6,100000175,Al-Hilal Hospital
+2019/2/12,100000261,St Thomas Hospital London
+2020/3/4,100000066,Mayo Clinic
+2020/8/21,100000045,Dar Al Shifa Hospital
+2019/2/8,100000283,King Faisal Specialist Hospital & Research Centre
+2019/11/16,100000217,Al-Hilal Hospital
+2019/2/2,100000129,King Faisal Specialist Hospital & Research Centre
+2021/7/15,100000048,Mayo Clinic
+2020/9/18,100000012,Mayo Clinic
+2021/1/4,100000158,Salamaniya Hospital
+2020/11/10,100000098,Dar Al Shifa Hospital
+2020/7/26,100000252,Emirates Hospital
+2019/4/16,100000033,Bahrain Defence Force Hospital
+2020/8/25,100000265,Emirates Hospital
+2019/10/7,100000130,King Hamad University Hospital
+2019/2/21,100000136,Mayo Clinic
+2019/3/14,100000060,Bahrain Defence Force Hospital
+2020/9/25,100000029,Bahrain Defence Force Hospital
+2019/1/1,100000219,King Hamad University Hospital
+2021/10/1,100000001,Mayo Clinic
+2020/3/4,100000068,King Faisal Specialist Hospital & Research Centre
+2019/9/12,100000227,King Faisal Specialist Hospital & Research Centre
+2021/3/25,100000064,St Thomas Hospital London
+2021/1/26,100000200,Emirates Hospital
+2021/10/27,100000140,Mayo Clinic
+2021/4/17,100000200,Emirates Hospital
+2019/2/19,100000106,King Hamad University Hospital
+2020/6/23,100000249,St Thomas Hospital London
+2019/1/27,100000063,American Mission Hospital
+2021/6/10,100000177,King Hamad University Hospital
+2019/5/7,100000041,Salamaniya Hospital
+2021/1/9,100000225,Emirates Hospital
+2019/4/12,100000239,Dar Al Shifa Hospital
+2021/3/11,100000012,Salamaniya Hospital
+2019/10/17,100000048,Salamaniya Hospital
+2020/1/2,100000110,Al-Hilal Hospital
+2020/6/12,100000055,Salamaniya Hospital
+2019/5/1,100000141,Emirates Hospital
+2019/10/23,100000060,Dar Al Shifa Hospital
+2020/10/21,100000253,King Faisal Specialist Hospital & Research Centre
+2019/2/23,100000067,Bahrain Defence Force Hospital
+2020/8/18,100000116,King Faisal Specialist Hospital & Research Centre
+2021/1/26,100000239,Dar Al Shifa Hospital
+2019/1/9,100000221,Dar Al Shifa Hospital
+2020/11/11,100000151,Mayo Clinic
+2019/11/24,100000106,Dar Al Shifa Hospital
+2021/5/2,100000200,St Thomas Hospital London
+2021/9/8,100000046,Al-Hilal Hospital
+2020/7/8,100000072,Dar Al Shifa Hospital
+2021/1/10,100000192,Dar Al Shifa Hospital
+2021/7/20,100000084,Dar Al Shifa Hospital
+2019/8/8,100000077,Bahrain Defence Force Hospital
+2021/9/15,100000223,Salamaniya Hospital
+2021/1/22,100000292,King Faisal Specialist Hospital & Research Centre
+2020/3/20,100000128,Al-Hilal Hospital
+2021/10/5,100000161,Al-Hilal Hospital
+2021/1/21,100000247,American Mission Hospital
+2019/11/12,100000289,American Mission Hospital
+2020/4/18,100000256,Emirates Hospital
+2019/10/23,100000250,St Thomas Hospital London
+2021/7/11,100000104,Bahrain Defence Force Hospital
+2019/11/1,100000284,Al-Hilal Hospital
+2021/3/16,100000289,Salamaniya Hospital
+2021/11/14,100000074,American Mission Hospital
+2020/11/27,100000089,St Thomas Hospital London
+2021/3/13,100000021,Bahrain Defence Force Hospital
+2021/5/18,100000027,Dar Al Shifa Hospital
+2019/8/9,100000255,American Mission Hospital
+2020/6/3,100000290,St Thomas Hospital London
+2020/1/21,100000120,American Mission Hospital
+2019/8/8,100000121,Emirates Hospital
+2021/1/1,100000213,Salamaniya Hospital
+2021/10/2,100000012,Mayo Clinic
+2021/4/24,100000069,St Thomas Hospital London
+2019/2/27,100000130,Bahrain Defence Force Hospital
+2020/11/11,100000013,Salamaniya Hospital
+2019/9/13,100000225,American Mission Hospital
+2019/11/5,100000202,Al-Hilal Hospital
+2019/11/15,100000285,King Hamad University Hospital
+2019/1/27,100000268,King Hamad University Hospital
+2019/3/23,100000260,St Thomas Hospital London
+2019/4/12,100000091,Al-Hilal Hospital
+2020/11/19,100000062,Mayo Clinic
+2021/11/4,100000270,Mayo Clinic
+2019/2/11,100000185,St Thomas Hospital London
+2019/8/5,100000284,Al-Hilal Hospital
+2020/1/16,100000027,King Hamad University Hospital
+2020/2/5,100000003,Mayo Clinic
+2021/1/3,100000219,King Hamad University Hospital
+2019/5/18,100000264,Mayo Clinic
+2019/2/27,100000252,King Hamad University Hospital
+2021/5/14,100000258,Dar Al Shifa Hospital
+2020/11/26,100000214,Salamaniya Hospital
+2021/11/23,100000282,King Faisal Specialist Hospital & Research Centre
+2019/8/17,100000151,American Mission Hospital
+2020/1/9,100000242,Al-Hilal Hospital
+2021/1/13,100000164,King Faisal Specialist Hospital & Research Centre
+2019/6/15,100000126,American Mission Hospital
+2019/3/9,100000228,Salamaniya Hospital
+2021/7/19,100000150,American Mission Hospital
+2021/1/1,100000134,King Hamad University Hospital
+2019/7/19,100000220,King Hamad University Hospital
+2021/4/26,100000056,Dar Al Shifa Hospital
+2021/8/15,100000066,St Thomas Hospital London
+2019/11/4,100000021,Dar Al Shifa Hospital
+2021/4/21,100000238,St Thomas Hospital London
+2021/5/3,100000223,King Hamad University Hospital
+2020/6/13,100000109,Dar Al Shifa Hospital
+2020/4/5,100000288,Bahrain Defence Force Hospital
+2021/6/12,100000061,American Mission Hospital
+2020/9/27,100000138,Dar Al Shifa Hospital
+2021/4/8,100000117,Salamaniya Hospital
+2019/4/9,100000113,American Mission Hospital
+2020/9/2,100000033,American Mission Hospital
+2021/7/21,100000036,Mayo Clinic
+2019/11/19,100000019,King Hamad University Hospital
+2020/7/24,100000169,Emirates Hospital
+2021/6/22,100000131,American Mission Hospital
+2019/1/14,100000043,St Thomas Hospital London
+2019/4/22,100000167,American Mission Hospital
+2020/7/20,100000274,St Thomas Hospital London
+2021/5/1,100000191,American Mission Hospital
+2020/3/11,100000282,Dar Al Shifa Hospital
+2021/2/16,100000211,King Faisal Specialist Hospital & Research Centre
+2019/10/14,100000258,Dar Al Shifa Hospital
+2020/9/8,100000162,St Thomas Hospital London
+2019/2/25,100000156,Emirates Hospital
+2019/8/7,100000062,King Faisal Specialist Hospital & Research Centre
+2021/1/20,100000051,Salamaniya Hospital
+2019/4/20,100000184,Dar Al Shifa Hospital
+2021/4/2,100000049,St Thomas Hospital London
+2021/6/21,100000266,King Hamad University Hospital
+2021/1/5,100000297,King Hamad University Hospital
+2020/5/13,100000075,Bahrain Defence Force Hospital
+2019/5/10,100000133,Bahrain Defence Force Hospital
+2019/9/9,100000034,St Thomas Hospital London
+2021/7/14,100000163,American Mission Hospital
+2020/7/9,100000251,Mayo Clinic
+2019/10/2,100000194,St Thomas Hospital London
+2020/9/8,100000019,American Mission Hospital
+2020/2/16,100000288,King Faisal Specialist Hospital & Research Centre
+2021/10/21,100000293,Mayo Clinic
+2021/6/5,100000211,Salamaniya Hospital
+2021/6/27,100000157,St Thomas Hospital London
+2020/6/22,100000021,Mayo Clinic
+2020/5/11,100000297,St Thomas Hospital London
+2019/1/7,100000038,St Thomas Hospital London
+2019/11/7,100000054,Bahrain Defence Force Hospital
+2020/9/19,100000166,Mayo Clinic
+2020/4/14,100000245,Mayo Clinic
+2020/2/7,100000272,Al-Hilal Hospital
+2019/6/16,100000090,American Mission Hospital
+2019/2/12,100000092,Salamaniya Hospital
+2020/8/13,100000009,King Faisal Specialist Hospital & Research Centre
+2019/3/22,100000156,Bahrain Defence Force Hospital
+2021/8/27,100000220,King Faisal Specialist Hospital & Research Centre
+2020/7/14,100000154,Bahrain Defence Force Hospital
+2021/3/15,100000298,Dar Al Shifa Hospital
+2019/11/4,100000082,King Hamad University Hospital
+2019/9/23,100000159,St Thomas Hospital London
+2020/5/16,100000278,American Mission Hospital
+2019/3/11,100000210,St Thomas Hospital London
+2020/4/11,100000284,Emirates Hospital
+2019/10/25,100000036,Salamaniya Hospital
+2021/7/18,100000186,Dar Al Shifa Hospital
+2021/5/8,100000136,Emirates Hospital
+2020/10/22,100000120,Mayo Clinic
+2019/3/9,100000194,American Mission Hospital
+2020/7/16,100000096,King Hamad University Hospital
+2019/4/3,100000285,Salamaniya Hospital
+2021/9/22,100000069,American Mission Hospital
+2020/5/14,100000140,Al-Hilal Hospital
+2020/1/2,100000246,Emirates Hospital
+2019/5/15,100000230,Al-Hilal Hospital
+2021/8/10,100000101,Dar Al Shifa Hospital
+2021/9/1,100000074,Dar Al Shifa Hospital
+2019/3/17,100000139,Bahrain Defence Force Hospital
+2020/10/19,100000048,Emirates Hospital
+2019/8/20,100000099,American Mission Hospital
+2020/4/15,100000094,Salamaniya Hospital
+2021/3/10,100000089,Bahrain Defence Force Hospital
+2020/8/20,100000183,St Thomas Hospital London
+2020/4/16,100000260,Emirates Hospital
+2020/5/6,100000224,King Hamad University Hospital
+2020/6/19,100000191,King Hamad University Hospital
+2021/2/7,100000166,American Mission Hospital
+2020/8/14,100000061,King Hamad University Hospital
+2021/6/20,100000211,Emirates Hospital
+2020/4/25,100000243,American Mission Hospital
+2021/11/12,100000156,Bahrain Defence Force Hospital
+2021/1/9,100000207,St Thomas Hospital London
+2020/7/18,100000002,Bahrain Defence Force Hospital
+2019/6/7,100000291,King Faisal Specialist Hospital & Research Centre
+2019/7/5,100000021,Bahrain Defence Force Hospital
+2019/10/25,100000141,King Hamad University Hospital
+2019/3/1,100000277,Emirates Hospital
+2021/11/19,100000123,Dar Al Shifa Hospital
+2021/1/19,100000023,King Hamad University Hospital
+2021/11/18,100000268,King Faisal Specialist Hospital & Research Centre
+2020/11/3,100000276,Dar Al Shifa Hospital
+2021/8/19,100000126,Dar Al Shifa Hospital
+2020/10/24,100000165,Al-Hilal Hospital
+2019/4/3,100000058,Mayo Clinic
+2019/3/11,100000233,Mayo Clinic
+2019/6/11,100000269,St Thomas Hospital London
+2019/1/11,100000043,St Thomas Hospital London
+2021/11/26,100000087,King Hamad University Hospital
+2019/8/6,100000293,King Faisal Specialist Hospital & Research Centre
+2020/1/22,100000049,Bahrain Defence Force Hospital
+2019/3/25,100000110,Al-Hilal Hospital
+2020/8/10,100000070,Mayo Clinic
+2020/9/21,100000131,Bahrain Defence Force Hospital
+2020/4/8,100000258,King Hamad University Hospital
+2019/4/6,100000189,King Faisal Specialist Hospital & Research Centre
+2020/2/12,100000189,American Mission Hospital
+2019/10/6,100000169,Emirates Hospital
+2021/8/5,100000298,King Hamad University Hospital
+2020/7/15,100000295,St Thomas Hospital London
+2020/3/16,100000288,Mayo Clinic
+2019/10/20,100000240,King Faisal Specialist Hospital & Research Centre
+2019/10/19,100000161,American Mission Hospital
+2019/2/22,100000090,Dar Al Shifa Hospital
+2021/4/6,100000272,Bahrain Defence Force Hospital
+2021/3/12,100000092,Bahrain Defence Force Hospital
+2019/9/8,100000285,Al-Hilal Hospital
+2019/11/7,100000022,Bahrain Defence Force Hospital
+2021/1/12,100000002,Al-Hilal Hospital
+2021/8/26,100000276,American Mission Hospital
+2020/10/2,100000223,Dar Al Shifa Hospital
+2020/5/13,100000293,Bahrain Defence Force Hospital
+2021/11/11,100000149,Emirates Hospital
+2020/9/15,100000015,Dar Al Shifa Hospital
+2020/1/12,100000101,Emirates Hospital
+2021/8/6,100000083,Emirates Hospital
+2019/4/7,100000262,Bahrain Defence Force Hospital
+2019/4/5,100000077,Emirates Hospital
+2019/4/25,100000148,Mayo Clinic
+2019/5/3,100000197,King Hamad University Hospital
+2021/2/27,100000049,Emirates Hospital
+2021/4/9,100000001,Bahrain Defence Force Hospital
+2020/1/23,100000165,Mayo Clinic
+2020/8/8,100000172,Salamaniya Hospital
+2021/4/18,100000289,Mayo Clinic
+2021/3/16,100000097,American Mission Hospital
+2019/3/24,100000299,Bahrain Defence Force Hospital
+2021/11/21,100000039,Mayo Clinic
+2021/11/15,100000052,Dar Al Shifa Hospital
+2020/1/27,100000095,Dar Al Shifa Hospital
+2020/6/15,100000126,King Hamad University Hospital
+2019/8/15,100000002,American Mission Hospital
+2020/8/11,100000209,Mayo Clinic
+2021/6/16,100000043,Salamaniya Hospital
+2021/4/25,100000095,Emirates Hospital
+2021/9/25,100000112,Salamaniya Hospital
+2019/4/14,100000279,Dar Al Shifa Hospital
+2019/10/20,100000203,Salamaniya Hospital
+2019/6/17,100000132,Al-Hilal Hospital
+2021/11/14,100000148,Mayo Clinic
+2020/11/13,100000168,King Hamad University Hospital
+2019/1/1,100000253,Mayo Clinic
+2020/6/22,100000072,Al-Hilal Hospital
+2021/4/8,100000026,Dar Al Shifa Hospital
+2020/11/1,100000010,Dar Al Shifa Hospital
+2020/7/25,100000194,Salamaniya Hospital
+2020/11/9,100000012,St Thomas Hospital London
+2021/4/26,100000231,American Mission Hospital
+2019/8/9,100000046,King Faisal Specialist Hospital & Research Centre
+2020/4/7,100000147,Bahrain Defence Force Hospital
+2019/1/8,100000175,King Hamad University Hospital
+2021/3/16,100000186,Bahrain Defence Force Hospital
+2020/1/22,100000130,King Faisal Specialist Hospital & Research Centre
+2020/7/14,100000201,Al-Hilal Hospital
+2019/10/19,100000133,Al-Hilal Hospital
+2020/4/11,100000061,Al-Hilal Hospital
+2020/7/25,100000186,Dar Al Shifa Hospital
+2021/6/5,100000108,Bahrain Defence Force Hospital
+2020/10/11,100000040,King Faisal Specialist Hospital & Research Centre
+2021/2/27,100000087,Bahrain Defence Force Hospital
+2021/6/1,100000090,King Hamad University Hospital
+2021/3/25,100000208,Salamaniya Hospital
+2021/1/18,100000037,Al-Hilal Hospital
+2019/3/9,100000176,American Mission Hospital
+2021/3/19,100000203,King Faisal Specialist Hospital & Research Centre
+2021/5/14,100000230,Bahrain Defence Force Hospital
+2020/2/25,100000271,Mayo Clinic
+2021/10/13,100000152,Emirates Hospital
+2020/10/4,100000267,King Faisal Specialist Hospital & Research Centre
+2020/2/9,100000285,King Faisal Specialist Hospital & Research Centre
+2020/6/17,100000102,Bahrain Defence Force Hospital
+2021/2/10,100000158,Salamaniya Hospital
+2020/6/21,100000225,King Hamad University Hospital
+2020/9/14,100000108,Salamaniya Hospital
+2019/10/14,100000047,King Hamad University Hospital
+2020/7/13,100000053,Salamaniya Hospital
+2021/7/17,100000146,Mayo Clinic
+2019/1/25,100000164,Al-Hilal Hospital
+2020/4/20,100000074,King Hamad University Hospital
+2020/4/4,100000274,St Thomas Hospital London
+2019/10/9,100000094,King Faisal Specialist Hospital & Research Centre
+2019/4/25,100000078,Dar Al Shifa Hospital
+2020/10/9,100000089,Bahrain Defence Force Hospital
+2020/7/16,100000259,Salamaniya Hospital
+2019/11/7,100000157,Dar Al Shifa Hospital
+2019/1/22,100000162,Bahrain Defence Force Hospital
+2020/8/11,100000017,King Hamad University Hospital
+2019/11/10,100000105,Mayo Clinic
+2019/7/16,100000150,Dar Al Shifa Hospital
+2021/3/14,100000002,Emirates Hospital
+2020/11/18,100000238,King Faisal Specialist Hospital & Research Centre
+2021/3/27,100000136,Bahrain Defence Force Hospital
+2020/6/7,100000235,Al-Hilal Hospital
+2020/4/21,100000106,Al-Hilal Hospital
+2019/1/5,100000015,Al-Hilal Hospital
+2020/10/24,100000019,American Mission Hospital
+2021/5/5,100000299,Bahrain Defence Force Hospital
+2019/2/18,100000062,Salamaniya Hospital
+2020/8/17,100000009,Salamaniya Hospital
+2019/2/9,100000147,Mayo Clinic
+2019/5/22,100000055,St Thomas Hospital London
+2021/1/9,100000263,Mayo Clinic
+2021/8/4,100000130,St Thomas Hospital London
+2020/6/17,100000208,St Thomas Hospital London
+2020/3/10,100000075,King Hamad University Hospital
+2020/2/10,100000093,King Hamad University Hospital
+2019/8/18,100000135,Dar Al Shifa Hospital
+2021/5/14,100000115,Dar Al Shifa Hospital
+2021/4/13,100000067,St Thomas Hospital London
+2019/4/26,100000056,St Thomas Hospital London
+2021/3/3,100000203,Salamaniya Hospital
+2021/2/25,100000050,American Mission Hospital
+2019/7/6,100000038,King Faisal Specialist Hospital & Research Centre
+2020/10/9,100000019,Emirates Hospital
+2021/3/20,100000077,Emirates Hospital
+2021/7/10,100000017,Bahrain Defence Force Hospital
+2021/9/8,100000011,American Mission Hospital
+2020/4/9,100000200,Mayo Clinic
+2019/10/20,100000245,Bahrain Defence Force Hospital
+2021/3/19,100000188,King Hamad University Hospital
+2020/8/11,100000090,Mayo Clinic
+2021/5/5,100000277,Al-Hilal Hospital
+2021/8/6,100000052,Mayo Clinic
+2021/2/24,100000027,Dar Al Shifa Hospital
+2021/4/1,100000222,Dar Al Shifa Hospital
+2019/8/25,100000005,King Faisal Specialist Hospital & Research Centre
+2021/6/7,100000055,St Thomas Hospital London
+2019/10/27,100000101,Bahrain Defence Force Hospital
+2019/2/14,100000014,King Faisal Specialist Hospital & Research Centre
+2019/1/26,100000052,Mayo Clinic
+2021/7/4,100000171,Dar Al Shifa Hospital
+2020/11/1,100000038,Emirates Hospital
+2019/4/1,100000066,Bahrain Defence Force Hospital
+2021/8/13,100000168,St Thomas Hospital London
+2020/9/1,100000282,Dar Al Shifa Hospital
+2019/8/10,100000020,Al-Hilal Hospital
+2021/2/26,100000191,Mayo Clinic
+2021/2/12,100000181,American Mission Hospital
+2020/2/2,100000093,King Faisal Specialist Hospital & Research Centre
+2021/3/5,100000229,Dar Al Shifa Hospital
+2020/7/18,100000119,Al-Hilal Hospital
+2021/11/4,100000239,Bahrain Defence Force Hospital
+2019/7/11,100000091,Dar Al Shifa Hospital
+2021/2/8,100000281,Bahrain Defence Force Hospital
+2019/1/11,100000159,American Mission Hospital
+2019/5/12,100000021,Mayo Clinic
+2021/7/8,100000133,Dar Al Shifa Hospital
+2020/8/14,100000122,St Thomas Hospital London
+2019/10/10,100000219,Dar Al Shifa Hospital
+2019/4/26,100000267,Salamaniya Hospital
+2021/6/15,100000250,Al-Hilal Hospital
+2020/7/14,100000238,Dar Al Shifa Hospital
+2021/3/23,100000141,American Mission Hospital
+2019/5/27,100000164,King Faisal Specialist Hospital & Research Centre
+2021/8/16,100000013,Al-Hilal Hospital
+2021/1/14,100000213,Mayo Clinic
+2020/8/21,100000188,Dar Al Shifa Hospital
+2020/1/11,100000170,Bahrain Defence Force Hospital
+2021/6/6,100000098,Dar Al Shifa Hospital
+2021/8/8,100000206,Bahrain Defence Force Hospital
+2020/11/26,100000114,Al-Hilal Hospital
+2020/7/22,100000281,Mayo Clinic
+2019/11/20,100000241,King Faisal Specialist Hospital & Research Centre
+2021/5/12,100000156,Mayo Clinic
+2019/7/25,100000130,Bahrain Defence Force Hospital
+2019/11/7,100000200,Mayo Clinic
+2021/11/12,100000037,Emirates Hospital
+2019/6/11,100000280,Mayo Clinic
+2019/6/20,100000175,American Mission Hospital
+2021/4/4,100000291,Salamaniya Hospital
+2019/8/11,100000081,Dar Al Shifa Hospital
+2021/1/27,100000050,Al-Hilal Hospital
+2019/9/27,100000010,King Faisal Specialist Hospital & Research Centre
+2021/7/9,100000284,Salamaniya Hospital
+2019/11/18,100000172,Salamaniya Hospital
+2020/8/13,100000169,Bahrain Defence Force Hospital
+2019/2/19,100000233,Salamaniya Hospital
+2020/3/20,100000257,Bahrain Defence Force Hospital
+2020/2/3,100000273,King Faisal Specialist Hospital & Research Centre
+2019/5/7,100000283,Al-Hilal Hospital
+2021/9/3,100000178,King Hamad University Hospital
+2019/6/5,100000137,Emirates Hospital
+2021/1/4,100000294,Al-Hilal Hospital
+2021/8/22,100000021,Al-Hilal Hospital
+2019/1/14,100000127,Mayo Clinic
+2020/2/4,100000114,St Thomas Hospital London
+2019/7/11,100000210,Bahrain Defence Force Hospital
+2020/8/5,100000038,King Hamad University Hospital
+2019/4/6,100000180,Salamaniya Hospital
+2021/6/3,100000271,King Hamad University Hospital
+2021/11/23,100000077,St Thomas Hospital London
+2020/2/16,100000036,King Hamad University Hospital
+2021/8/13,100000143,Emirates Hospital
+2019/4/19,100000222,St Thomas Hospital London
+2019/10/16,100000244,Salamaniya Hospital
+2021/7/8,100000032,Bahrain Defence Force Hospital
+2021/5/11,100000212,Emirates Hospital
+2020/11/27,100000157,St Thomas Hospital London
+2021/3/4,100000068,Dar Al Shifa Hospital
+2021/3/25,100000080,Dar Al Shifa Hospital
+2021/3/26,100000278,American Mission Hospital
+2021/11/5,100000255,King Hamad University Hospital
+2020/1/19,100000293,Dar Al Shifa Hospital
+2019/6/2,100000082,Dar Al Shifa Hospital
+2021/3/5,100000288,Al-Hilal Hospital
+2019/3/9,100000263,Salamaniya Hospital
+2021/10/5,100000125,Al-Hilal Hospital
+2021/3/12,100000031,St Thomas Hospital London
+2019/4/24,100000287,King Hamad University Hospital
+2020/7/20,100000253,Emirates Hospital
+2020/4/1,100000001,Salamaniya Hospital
+2020/9/24,100000129,King Faisal Specialist Hospital & Research Centre
+2021/6/26,100000288,Salamaniya Hospital
+2021/2/19,100000099,St Thomas Hospital London
+2020/11/5,100000088,St Thomas Hospital London
+2021/1/15,100000042,Dar Al Shifa Hospital
+2019/8/7,100000057,Bahrain Defence Force Hospital
+2021/10/6,100000173,Salamaniya Hospital
+2019/4/23,100000159,American Mission Hospital
+2019/1/5,100000091,Bahrain Defence Force Hospital
+2020/9/10,100000237,American Mission Hospital
+2019/5/17,100000220,Mayo Clinic
+2019/2/1,100000241,Al-Hilal Hospital
+2019/4/25,100000118,King Faisal Specialist Hospital & Research Centre
+2020/8/14,100000121,Mayo Clinic
+2020/9/14,100000219,Salamaniya Hospital
+2021/7/19,100000125,King Hamad University Hospital
+2021/9/12,100000243,Mayo Clinic
+2021/10/13,100000019,Bahrain Defence Force Hospital
+2020/5/24,100000133,Salamaniya Hospital
+2021/3/25,100000165,Salamaniya Hospital
+2021/4/24,100000191,American Mission Hospital
+2019/4/3,100000074,St Thomas Hospital London
+2020/10/14,100000234,King Hamad University Hospital
+2021/5/21,100000209,Mayo Clinic
+2021/4/4,100000119,King Faisal Specialist Hospital & Research Centre
+2019/11/15,100000054,Al-Hilal Hospital
+2021/5/1,100000044,St Thomas Hospital London
+2019/8/12,100000082,Salamaniya Hospital
+2019/3/7,100000240,Dar Al Shifa Hospital
+2021/2/11,100000285,Salamaniya Hospital
+2021/5/24,100000259,Al-Hilal Hospital
+2019/1/3,100000254,Al-Hilal Hospital
+2021/1/18,100000229,Bahrain Defence Force Hospital
+2020/1/6,100000255,King Hamad University Hospital
+2020/8/27,100000225,Mayo Clinic
+2019/1/24,100000008,Al-Hilal Hospital
+2019/10/25,100000116,Al-Hilal Hospital
+2021/2/19,100000253,Bahrain Defence Force Hospital
+2019/6/4,100000103,Bahrain Defence Force Hospital
+2021/1/1,100000127,Al-Hilal Hospital
+2019/4/12,100000090,American Mission Hospital
+2019/11/24,100000228,King Hamad University Hospital
+2019/7/2,100000073,Emirates Hospital
+2020/8/16,100000221,Emirates Hospital
+2020/6/7,100000218,King Faisal Specialist Hospital & Research Centre
+2020/2/11,100000059,Dar Al Shifa Hospital
+2020/5/11,100000166,American Mission Hospital
+2021/2/6,100000202,Al-Hilal Hospital
+2019/2/2,100000009,Emirates Hospital
+2021/7/11,100000246,King Faisal Specialist Hospital & Research Centre
+2020/5/23,100000141,Emirates Hospital
+2021/5/3,100000277,Salamaniya Hospital
+2019/9/18,100000238,Bahrain Defence Force Hospital
+2019/2/16,100000079,St Thomas Hospital London
+2019/11/3,100000141,American Mission Hospital
+2020/6/25,100000047,Al-Hilal Hospital
+2019/4/22,100000253,Mayo Clinic
+2021/2/26,100000254,King Hamad University Hospital
+2019/6/24,100000183,King Faisal Specialist Hospital & Research Centre
+2020/4/11,100000169,Dar Al Shifa Hospital
+2019/4/15,100000110,King Faisal Specialist Hospital & Research Centre
+2020/3/20,100000118,Dar Al Shifa Hospital
+2021/4/9,100000105,American Mission Hospital
+2020/7/23,100000040,Dar Al Shifa Hospital
+2020/3/13,100000049,Salamaniya Hospital
+2020/8/26,100000094,St Thomas Hospital London
+2020/11/27,100000037,Salamaniya Hospital
+2021/3/26,100000058,Mayo Clinic
+2019/7/21,100000192,King Hamad University Hospital
+2019/2/25,100000263,St Thomas Hospital London
+2019/7/23,100000020,King Faisal Specialist Hospital & Research Centre
+2021/2/23,100000071,Emirates Hospital
+2020/5/26,100000271,St Thomas Hospital London
+2020/7/1,100000191,Dar Al Shifa Hospital
+2019/6/19,100000267,Al-Hilal Hospital
+2019/1/25,100000126,Salamaniya Hospital
+2021/6/19,100000049,American Mission Hospital
+2021/1/13,100000104,American Mission Hospital
+2020/3/26,100000111,Emirates Hospital
+2019/11/7,100000035,American Mission Hospital
+2019/11/22,100000018,St Thomas Hospital London
+2021/10/20,100000266,King Faisal Specialist Hospital & Research Centre
+2021/11/13,100000018,American Mission Hospital
+2020/5/17,100000298,Al-Hilal Hospital
+2020/8/13,100000003,Al-Hilal Hospital
+2020/10/25,100000046,Mayo Clinic
+2019/1/24,100000278,King Hamad University Hospital
+2019/2/18,100000032,American Mission Hospital
+2020/7/4,100000217,King Hamad University Hospital
+2020/2/21,100000018,King Faisal Specialist Hospital & Research Centre
+2020/3/16,100000299,Mayo Clinic
+2020/4/21,100000185,St Thomas Hospital London
+2019/2/27,100000050,Dar Al Shifa Hospital
+2021/1/17,100000068,Bahrain Defence Force Hospital
+2019/5/8,100000059,Bahrain Defence Force Hospital
+2020/4/18,100000282,Salamaniya Hospital
+2019/10/17,100000285,Bahrain Defence Force Hospital
+2019/6/15,100000148,St Thomas Hospital London
+2020/9/3,100000255,King Hamad University Hospital
+2019/5/10,100000215,King Faisal Specialist Hospital & Research Centre
+2019/1/8,100000261,Emirates Hospital
+2020/2/24,100000142,Emirates Hospital
+2019/9/20,100000215,St Thomas Hospital London
+2021/7/16,100000174,St Thomas Hospital London
+2021/1/4,100000004,King Hamad University Hospital
+2020/5/2,100000091,Dar Al Shifa Hospital
+2020/2/8,100000245,American Mission Hospital
+2021/11/13,100000001,King Faisal Specialist Hospital & Research Centre
+2019/5/12,100000181,Al-Hilal Hospital
+2019/6/7,100000240,St Thomas Hospital London
+2021/5/23,100000113,Emirates Hospital
+2021/5/27,100000077,Mayo Clinic
+2019/3/14,100000083,Al-Hilal Hospital
+2019/9/23,100000004,Mayo Clinic
+2021/8/5,100000285,King Hamad University Hospital
+2021/3/21,100000004,King Faisal Specialist Hospital & Research Centre
+2020/4/15,100000014,Salamaniya Hospital
+2021/5/3,100000001,Al-Hilal Hospital
+2019/4/18,100000219,King Hamad University Hospital
+2021/3/24,100000073,Emirates Hospital
+2020/6/16,100000189,Mayo Clinic
+2019/6/2,100000059,Dar Al Shifa Hospital
+2021/11/16,100000226,King Hamad University Hospital
+2019/1/19,100000297,American Mission Hospital
+2020/9/4,100000096,Mayo Clinic
+2019/1/10,100000182,Salamaniya Hospital
+2021/8/11,100000257,Emirates Hospital
+2021/2/8,100000197,St Thomas Hospital London
+2021/3/25,100000143,King Hamad University Hospital
+2019/8/19,100000233,Salamaniya Hospital
+2019/10/27,100000183,King Faisal Specialist Hospital & Research Centre
+2021/11/9,100000064,Al-Hilal Hospital
+2020/6/1,100000244,American Mission Hospital
+2019/10/13,100000079,Mayo Clinic
+2021/10/22,100000274,Mayo Clinic
+2019/4/24,100000201,Al-Hilal Hospital
+2020/4/21,100000232,St Thomas Hospital London
+2021/9/6,100000097,Mayo Clinic
+2020/1/18,100000219,St Thomas Hospital London
+2019/7/21,100000140,Mayo Clinic
+2019/7/11,100000225,Emirates Hospital
+2019/2/9,100000231,Emirates Hospital
+2019/5/21,100000220,Al-Hilal Hospital
+2019/6/23,100000219,King Hamad University Hospital
+2020/9/1,100000228,King Faisal Specialist Hospital & Research Centre
+2020/7/17,100000276,Emirates Hospital
+2020/3/4,100000225,St Thomas Hospital London
+2020/5/20,100000083,American Mission Hospital
+2021/7/27,100000015,Bahrain Defence Force Hospital
+2019/1/18,100000107,Dar Al Shifa Hospital
+2021/10/15,100000202,Mayo Clinic
+2019/2/12,100000153,King Hamad University Hospital
+2021/8/10,100000034,Dar Al Shifa Hospital
+2021/3/23,100000118,Dar Al Shifa Hospital
+2020/11/8,100000090,St Thomas Hospital London
+2021/10/23,100000153,Emirates Hospital
+2019/2/14,100000186,King Faisal Specialist Hospital & Research Centre
+2021/4/9,100000165,Salamaniya Hospital
+2019/5/23,100000270,Mayo Clinic
+2020/5/1,100000215,King Hamad University Hospital
+2021/6/20,100000221,King Hamad University Hospital
+2020/11/18,100000014,American Mission Hospital
+2020/9/12,100000244,Emirates Hospital
+2019/11/13,100000287,King Hamad University Hospital
+2019/2/18,100000205,American Mission Hospital
+2019/3/22,100000019,Bahrain Defence Force Hospital
+2020/11/2,100000028,King Faisal Specialist Hospital & Research Centre
+2020/6/5,100000089,Bahrain Defence Force Hospital
+2021/5/7,100000006,American Mission Hospital
+2021/6/21,100000190,Mayo Clinic
+2020/8/23,100000071,Bahrain Defence Force Hospital
+2021/4/5,100000191,St Thomas Hospital London
+2021/5/12,100000066,Emirates Hospital
+2021/8/24,100000053,Mayo Clinic
+2019/9/14,100000058,King Hamad University Hospital
+2021/1/3,100000274,Mayo Clinic
+2020/7/2,100000010,American Mission Hospital
+2021/4/25,100000297,Emirates Hospital
+2020/11/25,100000274,American Mission Hospital
+2019/3/3,100000154,King Faisal Specialist Hospital & Research Centre
+2019/8/1,100000221,American Mission Hospital
+2020/2/17,100000208,Mayo Clinic
+2020/10/12,100000121,Salamaniya Hospital
+2021/7/24,100000246,King Faisal Specialist Hospital & Research Centre
+2021/3/19,100000063,American Mission Hospital
+2021/4/19,100000217,King Hamad University Hospital
+2019/11/19,100000075,King Faisal Specialist Hospital & Research Centre
+2019/10/19,100000010,King Hamad University Hospital
+2019/2/8,100000022,Bahrain Defence Force Hospital
+2020/4/3,100000094,Bahrain Defence Force Hospital
+2020/11/6,100000165,American Mission Hospital
+2019/5/17,100000290,St Thomas Hospital London
+2021/9/8,100000080,Salamaniya Hospital
+2021/3/15,100000177,Dar Al Shifa Hospital
+2020/4/26,100000117,Bahrain Defence Force Hospital
+2019/1/1,100000179,King Hamad University Hospital
+2021/9/2,100000205,Emirates Hospital
+2021/10/16,100000065,St Thomas Hospital London
+2021/6/14,100000111,St Thomas Hospital London
+2019/7/26,100000194,Salamaniya Hospital
+2021/1/26,100000286,Salamaniya Hospital
+2020/11/16,100000204,Salamaniya Hospital
+2020/7/1,100000176,King Hamad University Hospital
+2020/10/27,100000192,Mayo Clinic
+2019/5/10,100000270,Salamaniya Hospital
+2020/8/8,100000258,Emirates Hospital
+2020/1/22,100000010,King Faisal Specialist Hospital & Research Centre
+2019/5/9,100000202,Emirates Hospital
+2021/9/18,100000074,American Mission Hospital
+2021/10/23,100000134,American Mission Hospital
+2021/8/20,100000197,St Thomas Hospital London
+2021/11/14,100000199,Salamaniya Hospital
+2021/6/26,100000185,Bahrain Defence Force Hospital
+2019/5/8,100000173,St Thomas Hospital London
+2020/5/19,100000167,King Hamad University Hospital
+2019/5/7,100000264,Emirates Hospital
+2021/2/16,100000188,Dar Al Shifa Hospital
+2021/10/10,100000175,King Faisal Specialist Hospital & Research Centre
+2019/3/3,100000036,American Mission Hospital
+2020/8/2,100000190,St Thomas Hospital London
+2021/5/11,100000173,King Faisal Specialist Hospital & Research Centre
+2019/8/27,100000100,American Mission Hospital
+2021/8/7,100000139,Dar Al Shifa Hospital
+2020/3/18,100000062,American Mission Hospital
+2020/4/8,100000242,American Mission Hospital
+2020/5/23,100000185,King Faisal Specialist Hospital & Research Centre
+2019/11/21,100000047,St Thomas Hospital London
+2019/7/18,100000285,Dar Al Shifa Hospital
+2021/7/7,100000114,American Mission Hospital
+2020/8/15,100000098,Dar Al Shifa Hospital
+2020/3/11,100000173,St Thomas Hospital London
+2020/8/3,100000117,Dar Al Shifa Hospital
+2020/1/26,100000048,Mayo Clinic
+2019/1/7,100000295,Al-Hilal Hospital
+2019/4/19,100000297,King Faisal Specialist Hospital & Research Centre
+2019/1/17,100000144,Emirates Hospital
+2021/9/3,100000078,Emirates Hospital
+2021/3/15,100000173,King Faisal Specialist Hospital & Research Centre
+2019/2/12,100000040,King Hamad University Hospital
+2019/1/13,100000243,Mayo Clinic
+2021/3/22,100000181,Mayo Clinic
+2020/4/15,100000031,Emirates Hospital
+2021/8/17,100000025,American Mission Hospital
+2021/1/16,100000073,Al-Hilal Hospital
+2019/3/25,100000170,St Thomas Hospital London
+2019/7/15,100000113,Bahrain Defence Force Hospital
+2020/5/11,100000253,American Mission Hospital
+2020/10/17,100000241,King Hamad University Hospital
+2021/1/2,100000095,Emirates Hospital
+2019/10/9,100000189,Bahrain Defence Force Hospital
+2019/9/7,100000156,Bahrain Defence Force Hospital
+2020/9/3,100000271,Emirates Hospital
+2019/6/7,100000068,Emirates Hospital
+2019/10/23,100000091,Dar Al Shifa Hospital
+2021/4/12,100000169,Emirates Hospital
+2019/2/8,100000168,Emirates Hospital
+2021/10/8,100000039,Dar Al Shifa Hospital
+2021/8/11,100000157,Bahrain Defence Force Hospital
+2021/11/15,100000173,King Faisal Specialist Hospital & Research Centre
+2021/6/13,100000192,King Faisal Specialist Hospital & Research Centre
+2020/6/19,100000116,Dar Al Shifa Hospital
+2020/10/22,100000206,Emirates Hospital
+2021/8/12,100000164,King Hamad University Hospital
+2021/11/19,100000120,King Faisal Specialist Hospital & Research Centre
+2021/10/19,100000181,St Thomas Hospital London
+2019/2/27,100000015,Dar Al Shifa Hospital
+2021/7/24,100000236,Bahrain Defence Force Hospital
+2019/9/1,100000224,Emirates Hospital
+2021/10/19,100000187,Dar Al Shifa Hospital
+2020/4/3,100000027,Emirates Hospital
+2019/6/14,100000268,King Faisal Specialist Hospital & Research Centre
+2021/8/17,100000175,American Mission Hospital
+2021/1/15,100000284,Mayo Clinic
+2020/8/9,100000018,Al-Hilal Hospital
+2021/7/19,100000109,Dar Al Shifa Hospital
+2020/10/8,100000142,Al-Hilal Hospital
+2019/7/11,100000108,Bahrain Defence Force Hospital
+2019/9/16,100000188,King Faisal Specialist Hospital & Research Centre
+2021/7/13,100000066,Mayo Clinic
+2020/9/12,100000127,Emirates Hospital
+2021/7/13,100000108,King Hamad University Hospital
+2021/9/13,100000026,King Faisal Specialist Hospital & Research Centre
+2020/11/6,100000247,American Mission Hospital
+2021/9/25,100000262,St Thomas Hospital London
+2020/3/19,100000206,Bahrain Defence Force Hospital
+2019/9/10,100000078,Dar Al Shifa Hospital
+2020/3/25,100000071,American Mission Hospital
+2021/7/21,100000011,King Hamad University Hospital
+2019/10/20,100000037,Emirates Hospital
+2019/9/1,100000172,Emirates Hospital
+2019/8/17,100000117,Dar Al Shifa Hospital
+2021/2/6,100000218,Emirates Hospital
+2021/8/14,100000234,Mayo Clinic
+2020/7/3,100000106,St Thomas Hospital London
+2020/11/16,100000213,Salamaniya Hospital
+2020/11/16,100000050,American Mission Hospital
+2019/3/22,100000213,Salamaniya Hospital
+2019/4/6,100000223,St Thomas Hospital London
+2020/6/26,100000275,Bahrain Defence Force Hospital
+2020/10/22,100000254,Emirates Hospital
+2021/3/12,100000025,Bahrain Defence Force Hospital
+2019/7/9,100000255,Dar Al Shifa Hospital
+2019/11/10,100000251,Salamaniya Hospital
+2020/1/15,100000029,Salamaniya Hospital
+2021/9/16,100000077,King Hamad University Hospital
+2019/10/26,100000043,American Mission Hospital
+2019/8/17,100000229,Dar Al Shifa Hospital
+2020/11/2,100000178,Bahrain Defence Force Hospital
+2021/6/27,100000133,Bahrain Defence Force Hospital
+2021/11/18,100000037,Emirates Hospital
+2019/2/26,100000124,Dar Al Shifa Hospital
+2020/2/2,100000224,King Hamad University Hospital
+2021/2/19,100000290,Al-Hilal Hospital
+2021/3/3,100000140,Mayo Clinic
+2020/2/21,100000101,Salamaniya Hospital
+2020/2/23,100000224,Dar Al Shifa Hospital
+2020/3/11,100000017,American Mission Hospital
+2019/1/7,100000070,Al-Hilal Hospital
+2020/8/15,100000140,King Hamad University Hospital
+2019/5/26,100000131,Al-Hilal Hospital
+2021/3/20,100000063,Salamaniya Hospital
+2019/8/13,100000197,Dar Al Shifa Hospital
+2019/8/22,100000046,St Thomas Hospital London
+2020/9/18,100000076,Emirates Hospital
+2020/10/17,100000254,Mayo Clinic
+2020/3/12,100000263,Salamaniya Hospital
+2020/3/25,100000019,Salamaniya Hospital
+2019/11/16,100000071,Dar Al Shifa Hospital
+2020/10/14,100000143,Bahrain Defence Force Hospital
+2021/4/13,100000065,Emirates Hospital
+2019/9/4,100000100,Dar Al Shifa Hospital
+2019/2/25,100000243,King Faisal Specialist Hospital & Research Centre
+2019/11/21,100000048,Al-Hilal Hospital
+2021/7/23,100000228,American Mission Hospital
+2020/9/18,100000293,Salamaniya Hospital
+2020/11/2,100000086,Al-Hilal Hospital
+2021/8/18,100000089,Emirates Hospital
+2019/1/23,100000159,Dar Al Shifa Hospital
+2019/5/6,100000129,Dar Al Shifa Hospital
+2019/7/16,100000163,Dar Al Shifa Hospital
+2021/9/8,100000230,King Faisal Specialist Hospital & Research Centre
+2021/1/5,100000002,St Thomas Hospital London
+2020/7/15,100000024,King Hamad University Hospital
+2021/8/6,100000162,American Mission Hospital
+2020/3/4,100000099,Emirates Hospital
+2020/3/26,100000127,King Hamad University Hospital
+2021/1/27,100000049,Emirates Hospital
+2020/2/4,100000135,Dar Al Shifa Hospital
+2021/1/19,100000208,Al-Hilal Hospital
+2020/1/18,100000267,Emirates Hospital
+2020/10/19,100000173,King Hamad University Hospital
+2019/8/20,100000264,King Faisal Specialist Hospital & Research Centre
+2020/7/18,100000021,American Mission Hospital
+2021/11/1,100000188,King Faisal Specialist Hospital & Research Centre
+2021/5/23,100000201,Salamaniya Hospital
+2019/9/17,100000004,King Hamad University Hospital
+2020/6/1,100000089,Mayo Clinic
+2019/5/26,100000069,Bahrain Defence Force Hospital
+2019/5/16,100000279,St Thomas Hospital London
+2019/10/23,100000032,Bahrain Defence Force Hospital
+2019/9/26,100000081,Dar Al Shifa Hospital
+2020/5/5,100000116,King Faisal Specialist Hospital & Research Centre
+2019/1/21,100000189,Mayo Clinic
+2019/9/8,100000159,Mayo Clinic
+2020/6/20,100000234,King Faisal Specialist Hospital & Research Centre
+2021/6/13,100000049,Salamaniya Hospital
+2020/10/20,100000165,Al-Hilal Hospital
+2021/1/16,100000097,Bahrain Defence Force Hospital
+2020/1/17,100000299,Emirates Hospital
+2019/9/4,100000069,American Mission Hospital
+2019/10/24,100000045,American Mission Hospital
+2021/8/11,100000248,King Hamad University Hospital
+2019/3/13,100000046,Dar Al Shifa Hospital
+2021/9/24,100000125,Dar Al Shifa Hospital
+2020/2/20,100000039,Dar Al Shifa Hospital
+2019/9/26,100000254,King Hamad University Hospital
+2019/3/11,100000136,Dar Al Shifa Hospital
+2019/9/6,100000127,Dar Al Shifa Hospital
+2019/4/7,100000055,Salamaniya Hospital
+2020/9/24,100000241,Emirates Hospital
+2021/5/11,100000156,Al-Hilal Hospital
+2019/9/27,100000117,Al-Hilal Hospital
+2021/7/21,100000092,Emirates Hospital
+2021/1/27,100000257,Dar Al Shifa Hospital
+2021/6/21,100000124,Dar Al Shifa Hospital
+2019/6/21,100000290,Dar Al Shifa Hospital
+2019/6/20,100000176,American Mission Hospital
+2020/7/1,100000108,Dar Al Shifa Hospital
+2021/9/13,100000271,American Mission Hospital
+2020/5/3,100000118,King Hamad University Hospital
+2020/6/19,100000148,Bahrain Defence Force Hospital
+2019/8/3,100000191,Emirates Hospital
+2020/1/24,100000238,Bahrain Defence Force Hospital
+2020/9/6,100000215,Dar Al Shifa Hospital
+2020/3/20,100000067,Mayo Clinic
+2021/7/4,100000052,Bahrain Defence Force Hospital
+2021/10/2,100000216,Al-Hilal Hospital
+2019/3/20,100000238,Bahrain Defence Force Hospital
+2020/11/26,100000186,Salamaniya Hospital
+2019/3/11,100000090,Salamaniya Hospital
+2021/7/27,100000130,Al-Hilal Hospital
+2019/8/26,100000200,Al-Hilal Hospital
+2021/8/13,100000114,Bahrain Defence Force Hospital
+2021/11/11,100000089,Mayo Clinic
+2019/11/3,100000216,King Hamad University Hospital
+2020/5/1,100000242,Mayo Clinic
+2019/1/10,100000262,American Mission Hospital
+2019/11/18,100000050,King Faisal Specialist Hospital & Research Centre
+2020/10/8,100000236,King Faisal Specialist Hospital & Research Centre
+2019/5/26,100000066,Mayo Clinic
+2021/5/25,100000017,Emirates Hospital
+2019/5/19,100000241,Salamaniya Hospital
+2020/4/27,100000100,King Faisal Specialist Hospital & Research Centre
+2020/9/5,100000031,Bahrain Defence Force Hospital
+2020/8/21,100000258,Emirates Hospital
+2019/1/8,100000264,Salamaniya Hospital
+2020/8/23,100000214,St Thomas Hospital London
+2020/9/1,100000108,American Mission Hospital
+2020/10/13,100000157,Mayo Clinic
+2021/10/1,100000149,King Hamad University Hospital
+2019/3/25,100000220,Dar Al Shifa Hospital
+2021/2/26,100000096,St Thomas Hospital London
+2020/2/27,100000244,King Hamad University Hospital
+2019/8/8,100000243,Bahrain Defence Force Hospital
+2020/8/24,100000071,Bahrain Defence Force Hospital
+2019/7/18,100000293,Bahrain Defence Force Hospital
+2020/8/21,100000056,American Mission Hospital
+2020/3/22,100000057,Mayo Clinic
+2019/3/4,100000078,Mayo Clinic
+2021/1/24,100000203,Salamaniya Hospital
+2019/4/20,100000011,Salamaniya Hospital
+2019/1/21,100000012,Salamaniya Hospital
+2021/8/16,100000208,King Hamad University Hospital
+2019/4/27,100000039,Bahrain Defence Force Hospital
+2020/10/11,100000113,St Thomas Hospital London
+2020/2/15,100000073,Dar Al Shifa Hospital
+2019/1/23,100000275,American Mission Hospital
+2021/11/17,100000103,Mayo Clinic
+2020/11/26,100000199,Mayo Clinic
+2021/6/10,100000047,Salamaniya Hospital
+2021/2/3,100000257,St Thomas Hospital London
+2019/5/13,100000230,Dar Al Shifa Hospital
+2019/7/4,100000007,Emirates Hospital
+2019/2/9,100000213,Dar Al Shifa Hospital
+2021/11/18,100000127,American Mission Hospital
+2019/11/18,100000074,Emirates Hospital
+2019/7/3,100000046,American Mission Hospital
+2020/4/23,100000068,Bahrain Defence Force Hospital
+2021/2/27,100000110,Bahrain Defence Force Hospital
+2020/8/13,100000027,Al-Hilal Hospital
+2020/11/19,100000008,Dar Al Shifa Hospital
+2020/6/20,100000003,King Hamad University Hospital
+2021/10/23,100000066,Bahrain Defence Force Hospital
+2019/9/27,100000244,Salamaniya Hospital
+2020/5/17,100000172,American Mission Hospital
+2019/8/18,100000203,King Hamad University Hospital
+2021/5/27,100000183,King Hamad University Hospital
+2021/5/23,100000016,Al-Hilal Hospital
+2021/5/12,100000054,Dar Al Shifa Hospital
+2020/9/5,100000147,King Hamad University Hospital
+2019/1/4,100000207,Salamaniya Hospital
+2020/7/23,100000192,Mayo Clinic
+2021/3/17,100000298,Dar Al Shifa Hospital
+2019/5/9,100000033,Dar Al Shifa Hospital
+2020/3/27,100000240,Emirates Hospital
+2019/6/6,100000022,Salamaniya Hospital
+2021/4/20,100000054,Emirates Hospital
+2021/5/11,100000159,King Faisal Specialist Hospital & Research Centre
+2021/9/20,100000005,St Thomas Hospital London
+2019/11/8,100000127,Salamaniya Hospital
+2019/6/5,100000298,King Hamad University Hospital
+2019/8/25,100000140,Al-Hilal Hospital
+2019/3/27,100000189,Emirates Hospital
+2021/6/6,100000257,Salamaniya Hospital
+2020/11/9,100000120,King Hamad University Hospital
+2020/1/21,100000138,Salamaniya Hospital
+2021/8/16,100000079,Al-Hilal Hospital
+2021/2/21,100000126,King Hamad University Hospital
+2020/3/20,100000162,Emirates Hospital
+2019/9/8,100000128,King Faisal Specialist Hospital & Research Centre
+2019/4/23,100000085,Mayo Clinic
+2020/10/25,100000116,St Thomas Hospital London
+2019/10/25,100000087,St Thomas Hospital London
+2021/11/21,100000120,Al-Hilal Hospital
+2020/9/15,100000216,American Mission Hospital
+2021/2/9,100000028,American Mission Hospital
+2020/8/6,100000288,Bahrain Defence Force Hospital
+2019/2/23,100000091,Mayo Clinic
+2020/4/15,100000294,Emirates Hospital
+2019/5/22,100000046,King Faisal Specialist Hospital & Research Centre
+2021/8/9,100000191,King Faisal Specialist Hospital & Research Centre
+2021/1/26,100000201,St Thomas Hospital London
+2019/11/15,100000088,Al-Hilal Hospital
+2019/5/20,100000178,Bahrain Defence Force Hospital
+2021/9/2,100000198,Bahrain Defence Force Hospital
+2019/5/4,100000147,Mayo Clinic
+2020/1/4,100000134,Emirates Hospital
+2021/7/14,100000284,Bahrain Defence Force Hospital
+2020/9/17,100000001,King Faisal Specialist Hospital & Research Centre
+2021/7/21,100000111,Al-Hilal Hospital
+2019/11/10,100000040,Emirates Hospital
+2021/11/18,100000086,Salamaniya Hospital
+2021/9/1,100000155,American Mission Hospital
+2021/1/7,100000083,King Faisal Specialist Hospital & Research Centre
+2021/10/5,100000044,Bahrain Defence Force Hospital
+2019/2/22,100000250,St Thomas Hospital London
+2020/3/1,100000257,Mayo Clinic
+2020/1/9,100000059,Dar Al Shifa Hospital
+2021/10/20,100000127,Bahrain Defence Force Hospital
+2021/2/20,100000196,King Faisal Specialist Hospital & Research Centre
+2019/8/18,100000274,Dar Al Shifa Hospital
+2020/8/7,100000036,King Hamad University Hospital
+2021/3/5,100000220,American Mission Hospital
+2021/9/4,100000294,Emirates Hospital
+2019/3/3,100000213,Mayo Clinic
+2021/6/11,100000104,Al-Hilal Hospital
+2019/7/25,100000024,American Mission Hospital
+2021/7/27,100000083,American Mission Hospital
+2020/5/19,100000207,American Mission Hospital
+2021/6/14,100000002,American Mission Hospital
+2020/4/4,100000046,Al-Hilal Hospital
+2019/8/4,100000200,Dar Al Shifa Hospital
+2019/6/10,100000213,St Thomas Hospital London
+2021/7/27,100000110,St Thomas Hospital London
+2019/1/8,100000174,St Thomas Hospital London
+2019/5/19,100000025,Bahrain Defence Force Hospital
+2019/3/23,100000254,King Hamad University Hospital
+2021/2/14,100000035,Emirates Hospital
+2019/10/15,100000037,Salamaniya Hospital
+2020/8/18,100000024,Mayo Clinic
+2021/9/11,100000137,St Thomas Hospital London
+2020/4/23,100000268,Dar Al Shifa Hospital
+2021/7/9,100000180,King Hamad University Hospital
+2020/10/15,100000103,Mayo Clinic
+2019/9/7,100000028,Emirates Hospital
+2020/3/7,100000209,American Mission Hospital
+2020/11/26,100000136,King Hamad University Hospital
+2019/9/15,100000147,Bahrain Defence Force Hospital
+2021/4/10,100000245,Mayo Clinic
+2019/7/24,100000296,American Mission Hospital
+2020/1/16,100000225,King Faisal Specialist Hospital & Research Centre
+2020/1/9,100000180,Bahrain Defence Force Hospital
+2019/2/10,100000076,King Hamad University Hospital
+2020/4/4,100000118,Emirates Hospital
+2021/11/27,100000205,American Mission Hospital
+2021/3/20,100000256,Dar Al Shifa Hospital
+2020/7/3,100000122,Emirates Hospital
+2020/11/20,100000097,American Mission Hospital
+2021/6/4,100000264,Al-Hilal Hospital
+2019/7/9,100000224,American Mission Hospital
+2021/9/12,100000077,Bahrain Defence Force Hospital
+2021/11/19,100000282,Bahrain Defence Force Hospital
+2019/10/15,100000276,Mayo Clinic
+2021/6/5,100000045,Emirates Hospital
+2021/8/11,100000243,Salamaniya Hospital
+2020/3/10,100000074,American Mission Hospital
+2020/8/24,100000229,King Faisal Specialist Hospital & Research Centre
+2020/8/13,100000284,King Faisal Specialist Hospital & Research Centre
+2020/5/1,100000294,Salamaniya Hospital
+2019/4/1,100000153,Bahrain Defence Force Hospital
+2020/7/9,100000286,Salamaniya Hospital
+2020/3/14,100000273,King Hamad University Hospital
+2020/4/11,100000285,Mayo Clinic
+2020/4/14,100000248,American Mission Hospital
+2019/4/20,100000078,Mayo Clinic
+2021/7/5,100000269,American Mission Hospital
+2019/7/25,100000096,King Faisal Specialist Hospital & Research Centre
+2019/9/12,100000223,Emirates Hospital
+2021/7/21,100000297,Al-Hilal Hospital
+2020/6/11,100000013,American Mission Hospital
+2019/11/7,100000272,Mayo Clinic
+2019/5/13,100000213,Mayo Clinic
+2019/5/9,100000135,Mayo Clinic
+2020/5/25,100000229,Emirates Hospital
+2021/3/9,100000233,Mayo Clinic
+2019/5/6,100000280,Dar Al Shifa Hospital
+2021/2/1,100000073,Bahrain Defence Force Hospital
+2020/2/3,100000265,American Mission Hospital
+2020/9/18,100000021,American Mission Hospital
+2019/3/2,100000171,Emirates Hospital
+2019/2/14,100000016,King Hamad University Hospital
+2020/10/17,100000181,King Faisal Specialist Hospital & Research Centre
+2020/2/6,100000228,St Thomas Hospital London
+2020/3/3,100000139,King Faisal Specialist Hospital & Research Centre
+2020/11/9,100000080,American Mission Hospital
+2019/2/3,100000158,Dar Al Shifa Hospital
+2021/6/7,100000007,Salamaniya Hospital
+2021/9/23,100000116,Bahrain Defence Force Hospital
+2019/3/13,100000169,Bahrain Defence Force Hospital
+2021/2/1,100000207,Emirates Hospital
+2019/11/15,100000264,American Mission Hospital
+2021/2/22,100000114,Al-Hilal Hospital
+2020/7/14,100000127,King Faisal Specialist Hospital & Research Centre
+2021/10/24,100000293,Bahrain Defence Force Hospital
+2019/5/16,100000130,Dar Al Shifa Hospital
+2020/2/25,100000141,St Thomas Hospital London
+2020/8/17,100000066,American Mission Hospital
+2020/7/4,100000062,King Hamad University Hospital
+2019/4/26,100000290,American Mission Hospital
+2020/9/18,100000293,St Thomas Hospital London
+2020/9/8,100000116,Dar Al Shifa Hospital
+2019/7/4,100000084,Bahrain Defence Force Hospital
+2021/11/8,100000265,Dar Al Shifa Hospital
+2019/11/7,100000095,St Thomas Hospital London
+2020/11/16,100000254,Bahrain Defence Force Hospital
+2021/2/5,100000057,Mayo Clinic
+2020/6/12,100000054,Al-Hilal Hospital
+2021/1/3,100000216,Mayo Clinic
+2021/8/6,100000230,Salamaniya Hospital
+2019/7/23,100000109,St Thomas Hospital London
+2019/2/2,100000260,Emirates Hospital
+2021/4/1,100000142,Emirates Hospital
+2021/4/24,100000286,Salamaniya Hospital
+2021/9/14,100000073,Emirates Hospital
+2019/8/12,100000074,Emirates Hospital
+2021/1/9,100000286,Al-Hilal Hospital
+2020/5/25,100000037,Al-Hilal Hospital
+2020/2/6,100000022,Salamaniya Hospital
+2021/7/11,100000068,Dar Al Shifa Hospital
+2021/1/22,100000035,Al-Hilal Hospital
+2020/5/26,100000203,Emirates Hospital
+2020/6/15,100000257,American Mission Hospital
+2020/8/19,100000032,American Mission Hospital
+2019/11/11,100000197,Mayo Clinic
+2019/4/5,100000256,American Mission Hospital
+2020/9/1,100000277,Salamaniya Hospital
+2020/2/5,100000223,King Hamad University Hospital
+2021/9/16,100000165,King Faisal Specialist Hospital & Research Centre
+2021/3/12,100000029,American Mission Hospital
+2020/8/18,100000016,King Faisal Specialist Hospital & Research Centre
+2021/3/26,100000232,Salamaniya Hospital
+2020/10/13,100000029,King Hamad University Hospital
+2019/5/24,100000055,St Thomas Hospital London
+2020/3/1,100000213,St Thomas Hospital London
+2019/10/14,100000125,Mayo Clinic
+2021/9/7,100000007,American Mission Hospital
+2020/11/19,100000076,Al-Hilal Hospital
+2020/2/18,100000158,Al-Hilal Hospital
+2021/4/5,100000114,Mayo Clinic
+2021/10/26,100000130,Al-Hilal Hospital
+2020/3/19,100000076,St Thomas Hospital London
+2019/8/15,100000056,St Thomas Hospital London
+2021/5/16,100000036,Al-Hilal Hospital
+2020/9/26,100000264,St Thomas Hospital London
+2021/6/11,100000110,American Mission Hospital
+2019/10/8,100000161,St Thomas Hospital London
+2019/11/6,100000260,Mayo Clinic
+2021/2/13,100000273,Al-Hilal Hospital
+2019/7/26,100000130,American Mission Hospital
+2021/10/21,100000165,King Hamad University Hospital
+2021/3/13,100000187,Bahrain Defence Force Hospital
+2020/11/20,100000072,Bahrain Defence Force Hospital
+2021/11/4,100000252,Mayo Clinic
+2019/11/9,100000164,St Thomas Hospital London
+2020/8/27,100000014,Bahrain Defence Force Hospital
+2020/1/6,100000169,Bahrain Defence Force Hospital
+2019/9/4,100000117,King Hamad University Hospital
+2019/10/23,100000174,American Mission Hospital
+2021/11/22,100000081,King Faisal Specialist Hospital & Research Centre
+2019/8/15,100000095,King Hamad University Hospital
+2019/4/18,100000002,King Faisal Specialist Hospital & Research Centre
+2020/1/12,100000123,Salamaniya Hospital
+2021/2/11,100000262,Dar Al Shifa Hospital
+2019/6/3,100000026,American Mission Hospital
+2019/4/10,100000129,Al-Hilal Hospital
+2019/7/8,100000075,American Mission Hospital
+2019/1/26,100000158,King Faisal Specialist Hospital & Research Centre
+2020/10/4,100000170,King Faisal Specialist Hospital & Research Centre
+2020/7/17,100000045,Al-Hilal Hospital
+2020/1/7,100000114,Bahrain Defence Force Hospital
+2019/3/14,100000277,Dar Al Shifa Hospital
+2019/11/24,100000286,St Thomas Hospital London
+2021/2/2,100000031,King Faisal Specialist Hospital & Research Centre
+2021/10/24,100000027,Al-Hilal Hospital
+2019/8/8,100000140,Bahrain Defence Force Hospital
+2020/10/8,100000087,Salamaniya Hospital
+2020/3/8,100000268,King Hamad University Hospital
+2019/5/22,100000278,Dar Al Shifa Hospital
+2019/6/7,100000238,Bahrain Defence Force Hospital
+2019/9/17,100000298,Bahrain Defence Force Hospital
+2021/7/9,100000110,King Hamad University Hospital
+2021/4/13,100000224,Salamaniya Hospital
+2019/1/15,100000022,Mayo Clinic
+2019/5/21,100000190,King Hamad University Hospital
+2019/11/11,100000265,Bahrain Defence Force Hospital
+2019/2/16,100000072,Al-Hilal Hospital
+2019/5/25,100000102,King Hamad University Hospital
+2020/1/6,100000225,Mayo Clinic
+2020/4/17,100000270,Dar Al Shifa Hospital
+2019/2/10,100000068,St Thomas Hospital London
+2021/3/9,100000121,Al-Hilal Hospital
+2021/11/21,100000291,Al-Hilal Hospital
+2019/7/8,100000029,Salamaniya Hospital
+2020/10/27,100000089,Emirates Hospital
+2020/2/6,100000144,Emirates Hospital
+2020/5/22,100000029,King Faisal Specialist Hospital & Research Centre
+2019/10/14,100000053,Bahrain Defence Force Hospital
+2020/5/13,100000244,Bahrain Defence Force Hospital
+2021/8/9,100000109,Mayo Clinic
+2021/8/10,100000100,Emirates Hospital
+2019/4/2,100000279,King Faisal Specialist Hospital & Research Centre
+2019/2/10,100000211,American Mission Hospital
+2019/6/3,100000155,American Mission Hospital
+2019/8/10,100000179,Bahrain Defence Force Hospital
+2020/11/12,100000006,King Faisal Specialist Hospital & Research Centre
+2020/10/7,100000019,American Mission Hospital
+2021/5/12,100000261,Al-Hilal Hospital
+2019/7/5,100000101,Al-Hilal Hospital
+2021/2/9,100000101,King Hamad University Hospital
+2020/4/19,100000182,Emirates Hospital
+2019/6/16,100000242,Salamaniya Hospital
+2021/9/11,100000246,Emirates Hospital
+2021/7/3,100000197,King Hamad University Hospital
+2020/3/1,100000128,St Thomas Hospital London
+2020/1/10,100000069,Al-Hilal Hospital
+2019/1/25,100000179,American Mission Hospital
+2020/5/4,100000172,Emirates Hospital
+2020/9/23,100000281,Mayo Clinic
+2020/9/22,100000038,Mayo Clinic
+2019/3/19,100000298,American Mission Hospital
+2020/4/8,100000051,St Thomas Hospital London
+2019/11/7,100000201,King Faisal Specialist Hospital & Research Centre
+2020/6/12,100000210,Al-Hilal Hospital
+2019/2/19,100000288,St Thomas Hospital London
+2020/8/5,100000289,American Mission Hospital
+2021/3/7,100000025,Al-Hilal Hospital
+2021/4/18,100000115,Salamaniya Hospital
+2020/6/6,100000096,St Thomas Hospital London
+2021/6/8,100000011,Dar Al Shifa Hospital
+2019/6/12,100000098,Mayo Clinic
+2020/4/20,100000062,Salamaniya Hospital
+2021/7/8,100000237,Bahrain Defence Force Hospital
+2020/3/2,100000009,Emirates Hospital
+2020/1/21,100000045,St Thomas Hospital London
+2021/6/23,100000147,Emirates Hospital
+2019/9/18,100000166,Emirates Hospital
+2020/3/13,100000027,Al-Hilal Hospital
+2021/11/13,100000182,St Thomas Hospital London
+2021/11/10,100000286,Al-Hilal Hospital
+2020/3/4,100000171,Dar Al Shifa Hospital
+2019/11/25,100000118,Emirates Hospital
+2020/1/17,100000072,St Thomas Hospital London
+2021/3/23,100000182,Bahrain Defence Force Hospital
+2019/9/19,100000020,Mayo Clinic
+2021/7/23,100000094,Al-Hilal Hospital
+2021/1/2,100000298,American Mission Hospital
+2019/1/26,100000094,Dar Al Shifa Hospital
+2020/7/19,100000154,Mayo Clinic
+2020/7/15,100000271,King Faisal Specialist Hospital & Research Centre
+2021/3/6,100000047,Salamaniya Hospital
+2021/2/13,100000059,Emirates Hospital
+2020/4/4,100000144,Mayo Clinic
+2019/9/6,100000233,King Hamad University Hospital
+2019/2/14,100000078,Dar Al Shifa Hospital
+2019/10/6,100000284,American Mission Hospital
+2020/1/15,100000021,Bahrain Defence Force Hospital
+2021/7/22,100000043,King Faisal Specialist Hospital & Research Centre
+2019/6/10,100000088,Al-Hilal Hospital
+2020/7/25,100000278,King Hamad University Hospital
+2020/7/26,100000255,Dar Al Shifa Hospital
+2019/11/11,100000137,Salamaniya Hospital
+2020/1/17,100000131,Mayo Clinic
+2021/5/6,100000159,King Faisal Specialist Hospital & Research Centre
+2021/3/26,100000183,St Thomas Hospital London
+2019/1/18,100000265,King Faisal Specialist Hospital & Research Centre
+2020/1/19,100000225,Mayo Clinic
+2020/9/14,100000115,King Hamad University Hospital
+2019/3/21,100000281,Emirates Hospital
+2021/2/8,100000136,Salamaniya Hospital
+2021/4/16,100000285,King Hamad University Hospital
+2021/7/22,100000296,Mayo Clinic
+2020/4/15,100000196,American Mission Hospital
+2020/11/4,100000182,Bahrain Defence Force Hospital
+2019/11/8,100000162,Al-Hilal Hospital
+2021/8/16,100000253,Emirates Hospital
+2019/3/13,100000220,Bahrain Defence Force Hospital
+2020/3/2,100000100,Emirates Hospital
+2019/10/9,100000022,Dar Al Shifa Hospital
+2021/2/8,100000007,King Hamad University Hospital
+2021/4/12,100000123,Bahrain Defence Force Hospital
+2019/1/1,100000228,King Faisal Specialist Hospital & Research Centre
+2020/6/12,100000022,King Faisal Specialist Hospital & Research Centre
+2021/5/26,100000249,St Thomas Hospital London
+2020/8/14,100000253,St Thomas Hospital London
+2021/3/16,100000120,King Faisal Specialist Hospital & Research Centre
+2020/10/18,100000180,King Hamad University Hospital
+2021/2/8,100000103,American Mission Hospital
+2020/4/8,100000055,Emirates Hospital
+2020/7/5,100000266,American Mission Hospital
+2021/9/7,100000285,King Faisal Specialist Hospital & Research Centre
+2021/3/10,100000291,Dar Al Shifa Hospital
+2019/8/27,100000284,Salamaniya Hospital
+2020/7/8,100000265,Dar Al Shifa Hospital
+2021/1/19,100000044,King Hamad University Hospital
+2021/4/24,100000237,Bahrain Defence Force Hospital
+2020/2/8,100000242,Al-Hilal Hospital
+2020/10/5,100000028,St Thomas Hospital London
+2020/11/17,100000099,King Hamad University Hospital
+2020/7/22,100000133,King Hamad University Hospital
+2019/7/12,100000025,Al-Hilal Hospital
+2021/10/24,100000241,Bahrain Defence Force Hospital
+2020/11/17,100000284,King Hamad University Hospital
+2021/3/23,100000096,St Thomas Hospital London
+2021/6/10,100000014,St Thomas Hospital London
+2019/6/18,100000106,Al-Hilal Hospital
+2020/7/5,100000029,American Mission Hospital
+2020/1/7,100000141,Bahrain Defence Force Hospital
+2019/10/8,100000043,King Faisal Specialist Hospital & Research Centre
+2020/1/10,100000248,Mayo Clinic
+2019/6/7,100000033,Mayo Clinic
+2020/3/26,100000159,Emirates Hospital
+2019/5/4,100000240,Al-Hilal Hospital
+2020/5/23,100000296,Dar Al Shifa Hospital
+2019/11/9,100000033,St Thomas Hospital London
+2019/3/5,100000068,American Mission Hospital
+2021/2/7,100000218,Mayo Clinic
+2019/11/25,100000099,Al-Hilal Hospital
+2021/4/12,100000238,Emirates Hospital
+2020/11/14,100000204,Al-Hilal Hospital
+2021/3/22,100000012,St Thomas Hospital London
+2020/11/20,100000226,Emirates Hospital
+2020/9/7,100000034,Mayo Clinic
+2021/10/9,100000165,Bahrain Defence Force Hospital
+2020/4/21,100000141,Bahrain Defence Force Hospital
+2021/3/13,100000053,American Mission Hospital
+2020/10/4,100000051,Bahrain Defence Force Hospital
+2019/5/18,100000029,King Hamad University Hospital
+2019/6/4,100000081,King Hamad University Hospital
+2020/3/20,100000228,Salamaniya Hospital
+2019/6/17,100000171,St Thomas Hospital London
+2021/4/15,100000163,St Thomas Hospital London
+2020/2/22,100000094,Emirates Hospital
+2020/3/7,100000067,St Thomas Hospital London
+2019/4/14,100000079,Al-Hilal Hospital
+2019/5/10,100000263,Bahrain Defence Force Hospital
+2019/10/5,100000175,American Mission Hospital
+2020/11/4,100000204,King Hamad University Hospital
+2019/11/18,100000261,Dar Al Shifa Hospital
+2021/1/8,100000273,St Thomas Hospital London
+2019/6/10,100000052,Emirates Hospital
+2020/11/24,100000076,Bahrain Defence Force Hospital
+2021/9/18,100000135,King Hamad University Hospital
+2019/1/3,100000296,Salamaniya Hospital
+2021/8/17,100000052,American Mission Hospital
+2021/3/20,100000013,Emirates Hospital
+2020/9/4,100000047,Emirates Hospital
+2020/10/15,100000120,Mayo Clinic
+2020/3/27,100000212,King Hamad University Hospital
+2019/3/20,100000012,King Hamad University Hospital
+2020/1/11,100000121,Mayo Clinic
+2021/6/2,100000214,King Hamad University Hospital
+2020/1/6,100000031,Bahrain Defence Force Hospital
+2020/3/14,100000135,American Mission Hospital
+2019/7/19,100000024,Salamaniya Hospital
+2019/10/16,100000255,American Mission Hospital
+2021/1/11,100000281,St Thomas Hospital London
+2021/7/25,100000100,King Faisal Specialist Hospital & Research Centre
+2019/3/13,100000015,Salamaniya Hospital
+2021/3/2,100000182,King Faisal Specialist Hospital & Research Centre
+2019/7/20,100000261,St Thomas Hospital London
+2021/1/13,100000231,Emirates Hospital
+2019/6/7,100000084,Dar Al Shifa Hospital
+2020/1/2,100000130,King Faisal Specialist Hospital & Research Centre
+2020/1/19,100000050,King Faisal Specialist Hospital & Research Centre
+2019/10/14,100000212,Salamaniya Hospital
+2019/4/20,100000267,Dar Al Shifa Hospital
+2019/10/16,100000193,American Mission Hospital
+2020/2/9,100000178,Emirates Hospital
+2020/9/27,100000223,Salamaniya Hospital
+2020/2/18,100000015,Salamaniya Hospital
+2020/8/10,100000136,St Thomas Hospital London
+2021/6/21,100000066,Mayo Clinic
+2021/3/9,100000215,Dar Al Shifa Hospital
+2021/9/10,100000287,American Mission Hospital
+2019/6/9,100000293,Mayo Clinic
+2020/1/14,100000044,Mayo Clinic
+2021/5/4,100000261,Bahrain Defence Force Hospital
+2021/5/6,100000170,American Mission Hospital
+2021/7/18,100000221,King Hamad University Hospital
+2020/2/11,100000241,Dar Al Shifa Hospital
+2021/2/4,100000179,Mayo Clinic
+2020/10/5,100000143,Dar Al Shifa Hospital
+2020/9/26,100000192,Bahrain Defence Force Hospital
+2019/9/9,100000082,King Faisal Specialist Hospital & Research Centre
+2019/6/24,100000066,Bahrain Defence Force Hospital
+2019/4/3,100000251,King Hamad University Hospital
+2020/3/3,100000295,Dar Al Shifa Hospital
+2019/5/10,100000113,Mayo Clinic
+2019/8/7,100000012,Dar Al Shifa Hospital
+2019/2/18,100000120,Dar Al Shifa Hospital
+2019/7/10,100000020,Dar Al Shifa Hospital
+2021/6/26,100000254,Emirates Hospital
+2020/10/27,100000242,Dar Al Shifa Hospital
+2019/7/4,100000031,American Mission Hospital
+2021/6/10,100000284,Salamaniya Hospital
+2019/2/14,100000288,Salamaniya Hospital
+2021/7/17,100000011,Bahrain Defence Force Hospital
+2020/3/15,100000253,American Mission Hospital
+2021/5/13,100000281,Emirates Hospital
+2021/3/20,100000230,Bahrain Defence Force Hospital
+2021/4/8,100000229,Dar Al Shifa Hospital
+2021/5/21,100000080,Mayo Clinic
+2021/4/7,100000158,Dar Al Shifa Hospital
+2021/9/25,100000041,Bahrain Defence Force Hospital
+2020/5/8,100000071,Emirates Hospital
+2019/10/10,100000091,St Thomas Hospital London
+2021/4/24,100000159,Dar Al Shifa Hospital
+2021/10/5,100000063,Dar Al Shifa Hospital
+2021/3/17,100000118,Al-Hilal Hospital
+2019/10/18,100000167,King Faisal Specialist Hospital & Research Centre
+2019/6/7,100000197,St Thomas Hospital London
+2020/7/23,100000207,King Hamad University Hospital
+2021/1/15,100000005,Emirates Hospital
+2020/2/17,100000182,King Hamad University Hospital
+2020/8/17,100000205,St Thomas Hospital London
+2020/2/20,100000175,Al-Hilal Hospital
+2021/2/3,100000167,King Hamad University Hospital
+2019/11/24,100000270,Al-Hilal Hospital
+2019/5/7,100000116,Emirates Hospital
+2020/3/9,100000032,King Hamad University Hospital
+2020/11/4,100000215,King Faisal Specialist Hospital & Research Centre
+2021/8/10,100000072,King Hamad University Hospital
+2020/10/4,100000246,St Thomas Hospital London
+2021/1/27,100000262,King Faisal Specialist Hospital & Research Centre
+2021/8/22,100000042,Salamaniya Hospital
+2021/4/26,100000290,St Thomas Hospital London
+2021/3/22,100000155,Dar Al Shifa Hospital
+2020/10/17,100000071,Bahrain Defence Force Hospital
+2021/2/4,100000015,Bahrain Defence Force Hospital
+2019/10/24,100000090,Bahrain Defence Force Hospital
+2019/11/23,100000149,Bahrain Defence Force Hospital
+2020/2/19,100000143,Bahrain Defence Force Hospital
+2019/5/22,100000196,Emirates Hospital
+2019/2/6,100000119,King Faisal Specialist Hospital & Research Centre
+2020/2/12,100000150,Mayo Clinic
+2020/10/3,100000101,Mayo Clinic
+2020/5/27,100000002,Bahrain Defence Force Hospital
+2020/5/9,100000224,Emirates Hospital
+2019/1/23,100000128,Bahrain Defence Force Hospital
+2020/11/5,100000220,King Faisal Specialist Hospital & Research Centre
+2019/5/3,100000080,American Mission Hospital
+2019/10/22,100000123,Al-Hilal Hospital
+2021/2/10,100000049,Emirates Hospital
+2019/5/8,100000003,King Hamad University Hospital
+2020/11/12,100000046,King Faisal Specialist Hospital & Research Centre
+2019/2/24,100000035,Bahrain Defence Force Hospital
+2021/3/3,100000225,Dar Al Shifa Hospital
+2019/9/9,100000070,Mayo Clinic
+2019/5/8,100000019,Al-Hilal Hospital
+2021/6/25,100000287,Salamaniya Hospital
+2020/7/9,100000087,Bahrain Defence Force Hospital
+2020/9/15,100000170,King Hamad University Hospital
+2020/2/17,100000255,St Thomas Hospital London
+2019/7/13,100000201,King Faisal Specialist Hospital & Research Centre
+2019/6/4,100000221,Emirates Hospital
+2020/6/10,100000188,Salamaniya Hospital
+2020/7/27,100000179,Dar Al Shifa Hospital
+2020/4/3,100000113,American Mission Hospital
+2020/8/11,100000128,Al-Hilal Hospital
+2020/4/27,100000103,Emirates Hospital
+2019/1/25,100000239,St Thomas Hospital London
+2021/7/6,100000127,Dar Al Shifa Hospital
+2020/2/3,100000253,Emirates Hospital
+2020/7/15,100000085,American Mission Hospital
+2020/3/22,100000260,Dar Al Shifa Hospital
+2020/2/11,100000096,Emirates Hospital
+2019/3/2,100000128,King Faisal Specialist Hospital & Research Centre
+2020/1/2,100000131,Mayo Clinic
+2019/10/26,100000131,St Thomas Hospital London
+2020/6/20,100000152,Mayo Clinic
+2021/3/26,100000227,Mayo Clinic
+2019/3/11,100000050,Mayo Clinic
+2020/11/12,100000176,Bahrain Defence Force Hospital
+2019/1/20,100000166,Dar Al Shifa Hospital
+2019/7/1,100000256,Salamaniya Hospital
+2019/1/24,100000087,St Thomas Hospital London
+2020/6/23,100000064,St Thomas Hospital London
+2020/5/3,100000034,King Hamad University Hospital
+2020/10/20,100000092,Bahrain Defence Force Hospital
+2020/9/18,100000058,Emirates Hospital
+2019/8/4,100000071,Dar Al Shifa Hospital
+2020/5/27,100000117,Bahrain Defence Force Hospital
+2020/8/25,100000012,Dar Al Shifa Hospital
+2021/3/14,100000082,Salamaniya Hospital
+2021/10/8,100000057,American Mission Hospital
+2021/10/23,100000002,Salamaniya Hospital
+2020/4/27,100000090,St Thomas Hospital London
+2019/9/2,100000155,Emirates Hospital
+2020/3/23,100000050,Mayo Clinic
+2020/5/11,100000068,Salamaniya Hospital
+2020/4/26,100000024,Salamaniya Hospital
+2019/10/9,100000008,Al-Hilal Hospital
+2019/8/10,100000171,American Mission Hospital
+2021/5/1,100000136,Al-Hilal Hospital
+2021/3/9,100000119,King Hamad University Hospital
+2019/2/19,100000176,Mayo Clinic
+2021/2/25,100000114,Emirates Hospital
+2021/8/3,100000242,Mayo Clinic
+2020/4/12,100000116,Dar Al Shifa Hospital
+2021/9/22,100000075,Mayo Clinic
+2019/11/10,100000290,Bahrain Defence Force Hospital
+2021/4/11,100000179,Bahrain Defence Force Hospital
+2021/6/9,100000093,Al-Hilal Hospital
+2021/4/3,100000193,Emirates Hospital
+2020/3/7,100000060,Mayo Clinic
+2021/4/22,100000004,Salamaniya Hospital
+2019/2/8,100000210,Al-Hilal Hospital
+2019/4/27,100000229,Salamaniya Hospital
+2019/10/16,100000185,Dar Al Shifa Hospital
+2021/7/20,100000091,King Hamad University Hospital
+2021/1/27,100000297,Salamaniya Hospital
+2019/9/23,100000274,Bahrain Defence Force Hospital
+2019/8/2,100000032,Mayo Clinic
+2019/5/10,100000249,Salamaniya Hospital
+2019/10/21,100000200,St Thomas Hospital London
+2019/5/1,100000099,Salamaniya Hospital
+2019/10/13,100000235,King Faisal Specialist Hospital & Research Centre
+2019/1/13,100000023,Al-Hilal Hospital
+2020/4/18,100000066,Mayo Clinic
+2019/9/14,100000026,Al-Hilal Hospital
+2020/11/17,100000003,Salamaniya Hospital
+2019/7/20,100000222,Emirates Hospital
+2021/9/22,100000274,Al-Hilal Hospital
+2019/9/16,100000162,Al-Hilal Hospital
+2019/1/16,100000211,Mayo Clinic
+2020/9/7,100000010,Bahrain Defence Force Hospital
+2019/9/9,100000048,Bahrain Defence Force Hospital
+2020/4/18,100000237,Emirates Hospital
+2019/8/3,100000271,American Mission Hospital
+2021/4/10,100000241,Salamaniya Hospital
+2020/5/7,100000196,Al-Hilal Hospital
+2020/4/27,100000186,Salamaniya Hospital
+2019/2/19,100000288,Bahrain Defence Force Hospital
+2021/6/6,100000017,Mayo Clinic
+2021/6/14,100000116,Al-Hilal Hospital
+2020/7/17,100000239,Al-Hilal Hospital
+2019/7/12,100000022,Al-Hilal Hospital
+2019/6/3,100000175,Dar Al Shifa Hospital
+2021/8/21,100000224,Emirates Hospital
+2019/3/26,100000287,Mayo Clinic
+2021/9/24,100000002,Dar Al Shifa Hospital
+2019/5/3,100000188,King Hamad University Hospital
+2019/5/15,100000049,Bahrain Defence Force Hospital
+2020/7/19,100000295,Bahrain Defence Force Hospital
+2019/5/4,100000056,Al-Hilal Hospital
+2021/6/26,100000040,Emirates Hospital
+2019/2/5,100000224,Emirates Hospital
+2020/3/12,100000127,Al-Hilal Hospital
+2021/8/12,100000153,Bahrain Defence Force Hospital
+2019/10/8,100000070,Bahrain Defence Force Hospital
+2021/8/27,100000222,Salamaniya Hospital
+2019/9/5,100000060,Bahrain Defence Force Hospital
+2020/5/20,100000035,Emirates Hospital
+2021/1/27,100000294,Mayo Clinic
+2019/11/4,100000066,St Thomas Hospital London
+2020/11/20,100000069,Salamaniya Hospital
+2020/5/16,100000141,Al-Hilal Hospital
+2019/2/4,100000185,King Faisal Specialist Hospital & Research Centre
+2020/7/20,100000255,Salamaniya Hospital
+2021/6/23,100000017,King Faisal Specialist Hospital & Research Centre
+2019/6/21,100000191,Bahrain Defence Force Hospital
+2019/8/9,100000091,King Hamad University Hospital
+2020/6/24,100000083,Emirates Hospital
+2019/6/19,100000075,Salamaniya Hospital
+2019/8/8,100000289,Mayo Clinic
+2020/3/24,100000250,King Hamad University Hospital
+2020/3/23,100000168,Bahrain Defence Force Hospital
+2021/1/14,100000063,St Thomas Hospital London
+2021/1/3,100000179,Mayo Clinic
+2019/1/8,100000028,American Mission Hospital
+2020/4/4,100000249,Emirates Hospital
+2020/1/24,100000098,Mayo Clinic
+2021/9/3,100000246,Al-Hilal Hospital
+2021/10/9,100000275,King Faisal Specialist Hospital & Research Centre
+2020/9/20,100000277,St Thomas Hospital London
+2021/10/15,100000181,King Hamad University Hospital
+2020/6/22,100000147,Emirates Hospital
+2021/4/26,100000087,Mayo Clinic
+2019/5/3,100000263,Dar Al Shifa Hospital
+2019/6/11,100000119,Emirates Hospital
+2019/5/27,100000022,King Hamad University Hospital
+2019/9/12,100000149,King Hamad University Hospital
+2019/11/23,100000004,King Faisal Specialist Hospital & Research Centre
+2019/11/13,100000294,Dar Al Shifa Hospital
+2020/6/15,100000224,Emirates Hospital
+2020/5/3,100000212,King Hamad University Hospital
+2020/9/24,100000293,Emirates Hospital
+2021/6/2,100000013,Salamaniya Hospital
+2020/9/5,100000176,St Thomas Hospital London
+2021/11/1,100000123,Dar Al Shifa Hospital
+2020/3/19,100000141,Dar Al Shifa Hospital
+2021/8/3,100000198,Emirates Hospital
+2019/5/8,100000048,King Hamad University Hospital
+2019/10/1,100000023,Mayo Clinic
+2019/8/19,100000214,Salamaniya Hospital
+2021/2/9,100000266,American Mission Hospital
+2019/10/6,100000026,King Faisal Specialist Hospital & Research Centre
+2019/8/18,100000060,American Mission Hospital
+2021/10/27,100000028,St Thomas Hospital London
+2019/3/23,100000027,Al-Hilal Hospital
+2020/8/7,100000093,Mayo Clinic
+2019/10/15,100000179,King Faisal Specialist Hospital & Research Centre
+2019/7/3,100000260,St Thomas Hospital London
+2020/11/26,100000160,King Faisal Specialist Hospital & Research Centre
+2020/11/9,100000083,Mayo Clinic
+2021/4/15,100000100,St Thomas Hospital London
+2020/8/26,100000186,King Hamad University Hospital
+2021/4/3,100000221,Al-Hilal Hospital
+2020/4/21,100000294,St Thomas Hospital London
+2021/2/18,100000173,Salamaniya Hospital
+2020/9/18,100000034,Dar Al Shifa Hospital
+2021/2/27,100000287,Mayo Clinic
+2019/8/17,100000109,Bahrain Defence Force Hospital
+2020/8/11,100000188,Al-Hilal Hospital
+2020/7/26,100000151,Emirates Hospital
+2021/4/11,100000055,Dar Al Shifa Hospital
+2019/11/16,100000097,Al-Hilal Hospital
+2020/5/13,100000193,Mayo Clinic
+2021/10/17,100000120,King Hamad University Hospital
+2021/9/1,100000039,King Faisal Specialist Hospital & Research Centre
+2020/3/26,100000207,Bahrain Defence Force Hospital
+2019/9/22,100000135,Emirates Hospital
+2020/11/25,100000128,King Faisal Specialist Hospital & Research Centre
+2019/7/3,100000065,King Faisal Specialist Hospital & Research Centre
+2019/7/23,100000205,Salamaniya Hospital
+2021/3/22,100000087,American Mission Hospital
+2020/3/27,100000278,Dar Al Shifa Hospital
+2019/8/9,100000197,Emirates Hospital
+2021/7/18,100000157,Al-Hilal Hospital
+2019/2/24,100000286,Al-Hilal Hospital
+2021/5/24,100000173,St Thomas Hospital London
+2020/9/18,100000178,King Faisal Specialist Hospital & Research Centre
+2021/10/17,100000152,King Faisal Specialist Hospital & Research Centre
+2019/6/12,100000261,Emirates Hospital
+2020/6/8,100000170,King Hamad University Hospital
+2019/3/19,100000019,King Hamad University Hospital
+2021/1/1,100000279,King Hamad University Hospital
+2019/5/6,100000223,Al-Hilal Hospital
+2019/4/23,100000043,King Hamad University Hospital
+2019/3/8,100000169,Al-Hilal Hospital
+2021/8/11,100000102,St Thomas Hospital London
+2020/10/23,100000177,Salamaniya Hospital
+2020/9/3,100000077,Salamaniya Hospital
+2021/6/1,100000030,Al-Hilal Hospital
+2019/1/10,100000267,St Thomas Hospital London
+2021/9/25,100000010,Salamaniya Hospital
+2019/4/9,100000185,Mayo Clinic
+2019/3/24,100000150,King Hamad University Hospital
+2019/5/20,100000016,King Hamad University Hospital
+2020/1/15,100000020,Salamaniya Hospital
+2020/1/14,100000017,Bahrain Defence Force Hospital
+2019/4/7,100000074,King Faisal Specialist Hospital & Research Centre
+2020/5/18,100000278,Dar Al Shifa Hospital
+2019/9/24,100000060,King Hamad University Hospital
+2019/8/23,100000045,Mayo Clinic
+2021/8/10,100000193,Al-Hilal Hospital
+2021/4/15,100000024,Salamaniya Hospital
+2019/3/22,100000137,Dar Al Shifa Hospital
+2021/4/12,100000272,American Mission Hospital
+2020/9/9,100000271,American Mission Hospital
+2021/7/14,100000190,Bahrain Defence Force Hospital
+2019/10/18,100000202,Dar Al Shifa Hospital
+2020/10/9,100000264,Bahrain Defence Force Hospital
+2020/7/18,100000107,Al-Hilal Hospital
+2019/1/15,100000025,King Faisal Specialist Hospital & Research Centre
+2020/10/1,100000243,Al-Hilal Hospital
+2019/5/23,100000286,Mayo Clinic
+2019/8/5,100000223,Emirates Hospital
+2019/5/5,100000161,Al-Hilal Hospital
+2020/11/12,100000282,St Thomas Hospital London
+2020/5/17,100000017,Bahrain Defence Force Hospital
+2021/5/19,100000093,Dar Al Shifa Hospital
+2021/11/16,100000027,Emirates Hospital
+2020/9/5,100000067,American Mission Hospital
+2021/5/19,100000158,Dar Al Shifa Hospital
+2019/10/19,100000253,Al-Hilal Hospital
+2021/8/24,100000122,Dar Al Shifa Hospital
+2020/8/18,100000229,American Mission Hospital
+2021/3/2,100000013,King Faisal Specialist Hospital & Research Centre
+2021/1/18,100000004,Al-Hilal Hospital
+2021/9/24,100000052,Salamaniya Hospital
+2020/1/24,100000043,Salamaniya Hospital
+2021/5/18,100000056,Dar Al Shifa Hospital
